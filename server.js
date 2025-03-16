@@ -5,7 +5,12 @@ const router = jsonServer.router("db.json");
 
 // Make sure to use the default middleware
 const middlewares = jsonServer.defaults();
-
+server.use((req, res, next) => {
+    if (req.method !== "GET") {
+      return res.status(403).json({ error: "Apenas requisições GET são permitidas." });
+    }
+    next();
+  });
 server.use(middlewares);
 // Add this before server.use(router)
 server.use(
