@@ -1,11 +1,10 @@
 // JSON Server module
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const data = require("./db.json");
-const router = jsonServer.router(data, { readOnly: true });
+const router = jsonServer.router("db.json");
 
 // Make sure to use the default middleware
-const middlewares = jsonServer.defaults();
+const middlewares = jsonServer.defaults({readOnly:true});
 
 server.use(middlewares);
 // Add this before server.use(router)
