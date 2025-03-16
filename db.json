@@ -385,7 +385,7 @@
         },
         {
             "id":35,
-            "name":"Yups",
+            "name":"Yupps",
             "Org":["INTZ"],
             "Titulos": 0,
             "Position":"TOP",
@@ -449,7 +449,16 @@
             "idade":0,
             "nacionalidade":"Brasil"
         },
-       
+        {
+            "id":41,
+            "name":"Luskka",
+            "Org":["Vivo Keyd"],
+            "Titulos": 0,
+            "Position":"JUNGLE",
+            "Current":"NÃO ATUANDO",
+            "idade":25,
+            "nacionalidade":"Taiwan"
+        },
         {
             "id":42,
             "name":"Pilot",
@@ -1883,17 +1892,8 @@
             "Current":"NÃO ATUANDO",
             "idade":28,
             "nacionalidade":"Brasil"
-        },
-        {
-            "id":175,
-            "name":"Luskka",
-            "Org":["Vivo Keyd"],
-            "Titulos": 0,
-            "Position":"JUNGLE",
-            "Current":"NÃO ATUANDO",
-            "idade":25,
-            "nacionalidade":"Taiwan"
         }
+
   
   
 
