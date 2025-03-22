@@ -2402,12 +2402,78 @@
         
         {
             "id":224,
-            "name":"Mandiocaa",
-            "Org":["Insight Esports"],
+            "name":"Djoko",
+            "Org":["INTZ"],
+            "Titulos": 0,
+            "Position":"JUNGLE",
+            "Current":"NÃO ATUANDO",
+            "idade":31,
+            "nacionalidade":"Brasil"
+        },
+        
+        {
+            "id":225,
+            "name":"Digolera",
+            "Org":["Nex Impetus","AWP"],
             "Titulos": 0,
             "Position":"ADC",
             "Current":"NÃO ATUANDO",
+            "idade":0,
+            "nacionalidade":"Brasil"
+        },
+        
+        {
+            "id":226,
+            "name":"owN",
+            "Org":["Pain"],
+            "Titulos": 0,
+            "Position":"ADC",
+            "Current":"NÃO ATUANDO",
+            "idade":0,
+            "nacionalidade":"Brasil"
+        },
+        
+        {
+            "id":227,
+            "name":"Olleh",
+            "Org":["Pain"],
+            "Titulos": 0,
+            "Position":"SUP",
+            "Current":"NÃO ATUANDO",
+            "idade":30,
+            "nacionalidade":"Coreia"
+        },
+        
+        {
+            "id":228,
+            "name":"manajj",
+            "Org":["CNB","Nex Impetus","vTi Iginis"],
+            "Titulos": 1,
+            "Position":"ADC",
+            "Current":"NÃO ATUANDO",
             "idade":32,
+            "nacionalidade":"Brasil"
+        },
+        
+        {
+            "id":229,
+            "name":"SuNo",
+            "Org":["CNB","Nex Impetus","vTi Iginis"],
+            "Titulos": 0,
+            "Position":"MID",
+            "Current":"NÃO ATUANDO",
+            "idade":30,
+            "nacionalidade":"Brasil"
+        },
+        
+        {
+            "id":230,
+            "name":"Venon",
+            "Org":["Pain"],
+            "Titulos": 1,
+            "Position":"TOP",
+            "Current":"NÃO ATUANDO",
+            "idade":0,
             "nacionalidade":"Brasil"
         }
         
