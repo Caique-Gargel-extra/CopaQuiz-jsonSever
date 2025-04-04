@@ -188,7 +188,7 @@
             "Org":["LOUD","FURIA","Kabum"],
             "Titulos": 1,
             "Position":"JUNGLE",
-            "Current":"ATUANDO",
+            "Current":"NÃO ATUANDO",
             
             "idade":26,
             "nacionalidade":"Coreia"
@@ -221,7 +221,7 @@
             "Org":["LOUD"],
             "Titulos": 0,
             "Position":"SUP",
-            "Current":"ATUANDO",
+            "Current":"NÃO ATUANDO",
             
             "idade":24,
             "nacionalidade":"United States"
@@ -299,7 +299,7 @@
             "Org":["FLUXO","Liberty"],
             "Titulos": 2,
             "Position":"JUNGLE",
-            "Current":"ATUANDO",
+            "Current":"NÃO ATUANDO",
             
             "idade":21,
             "nacionalidade":"Brasil"
@@ -837,7 +837,7 @@
             "Org":["LOUD","Big Gods","INTZ","Team oNe","Flamengo","FURIA","Kabum"],
             "Titulos": 4,
             "Position":"SUP",
-            "Current":"NÃO ATUANDO",
+            "Current":"ATUANDO",
             
             "idade":26,
             "nacionalidade":"Brasil"
@@ -1725,10 +1725,10 @@
         {
             "id":158,
             "name":"Shini",
-            "Org":["Fluxo","INTZ"],
+            "Org":["LOUD","Fluxo","INTZ"],
             "Titulos": 2,
             "Position":"JUNGLE",
-            "Current":"NÃO ATUANDO",
+            "Current":"ATUANDO",
             "idade":27,
             "nacionalidade":"Brasil"
         },
@@ -2475,6 +2475,36 @@
             "Current":"NÃO ATUANDO",
             "idade":0,
             "nacionalidade":"Brasil"
+        },
+        {
+            "id":231,
+            "name":"Jeam Mago",
+            "Org":["Red Canids"],
+            "Titulos": 0,
+            "Position":"MID",
+            "Current":"NÃO ATUANDO",
+            "idade":21,
+            "nacionalidade":"Brasil"
+        },
+        {
+            "id":232,
+            "name":"Roamer",
+            "Org":["Pain"],
+            "Titulos": 0,
+            "Position":"MID",
+            "Current":"NÃO ATUANDO",
+            "idade":21,
+            "nacionalidade":"Coreia"
+        },
+        {
+            "id":233,
+            "name":"Ganks",
+            "Org":["FLUXO"],
+            "Titulos": 0,
+            "Position":"JUNGLE",
+            "Current":"NÃO ATUANDO",
+            "idade":24,
+            "nacionalidade":"Peru"
         }
         
         
