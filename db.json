@@ -2517,65 +2517,65 @@
     "falas":[
         {
             "id":1,
-            "fala":"Kami você não sabe jogar de Katarina",
+            "fala":" \"Kami você não sabe jogar de Katarina \"",
             "jogador":"yoda",
             "player_id":208
             
         },
         {
             "id":2,
-            "fala":"Ta fora de Posição ae Micao",
+            "fala":" \"Ta fora de Posição ae Micao \"",
             "jogador":"sacy",
             "player_id":177
         },
         {
             "id":3,
-            "fala":"Tao em choque tem duas pinks no mesmo lugar",
+            "fala":" \"Tao em choque tem duas pinks no mesmo lugar \"",
             "jogador":"Luskao",
             "player_id":99
         }
         ,
         {
             "id":4,
-            "fala":"Vamo calibrar o smite Revolta",
+            "fala":" \"Vamo calibrar o smite Revolta \"",
             "jogador":"brtt",
             "player_id":48
         },
         {
             "id":5,
-            "fala":"Ta sabendo tudo em, Bato palma para vocês",
+            "fala":" \"Ta sabendo tudo em, Bato palma para vocês \"",
             "jogador":"brtt",
             "player_id":48
         },
         {
             "id":6,
-            "fala":"Eu sou macaco velho professor",
+            "fala":" \"Eu sou macaco velho professor \"",
             "jogador":"Leko",
             "player_id":202
         }
         ,
         {
             "id":7,
-            "fala":"Oh Kami oh my god",
+            "fala":" \"Oh Kami oh my god \"",
             "jogador":"Dioud",
             "player_id":197
         },
         {
             "id":8,
-            "fala":"Pega Sejuani Turtle",
+            "fala":" \"Pega Sejuani Turtle \"",
             "jogador":"Zirigui",
             "player_id":137
         }
         ,
         {
             "id":9,
-            "fala":"Seguinte Vou farmar ate o 6, quando eu pegar 6 eu farmo ate acabar o jogo",
+            "fala":" \"Seguinte Vou farmar ate o 6, quando eu pegar 6 eu farmo ate acabar o jogo \"",
             "jogador":"4lan",
             "player_id":168
         },
         {
             "id":10,
-            "fala":"O cara ta na disney",
+            "fala":" \"O cara ta na disney \"",
             "jogador":"brtt",
             "player_id":48
         },
@@ -2587,177 +2587,177 @@
         },
         {
             "id":12,
-            "fala":"Faz cara feia não tay",
+            "fala":" \"Faz cara feia não tay \"",
             "jogador":"Pbo",
             "player_id":133
             
         },
         {
             "id":13,
-            "fala":"Invencibilidade é o meu pau",
+            "fala":" \"Invencibilidade é o meu pau \"",
             "jogador":"Professor",
             "player_id":128
         },
         {
             "id":14,
-            "fala":"Ai sacy se ta maluco seu maluco",
+            "fala":" \"Ai sacy se ta maluco seu maluco \"",
             "jogador":"Titan",
             "player_id":9
         },
         {
             "id":15,
-            "fala":"Essa call aqui tem historia",
+            "fala":" \"Essa call aqui tem historia \"",
             "jogador":"absolut",
             "player_id":134
         },
         {
             "id":16,
-            "fala":"Vocês são freguês, freguesiiia",
+            "fala":" \"Vocês são freguês, freguesiiia \"",
             "jogador":"Robo",
             "player_id":16
         },
         {
             "id":17,
-            "fala":"O Robo você ta tiltado em, você ta tiltado",
+            "fala":" \"O Robo você ta tiltado em, você ta tiltado \"",
             "jogador":"brtt",
             "player_id":48
         },
         {
             "id":18,
-            "fala":"Vo fatia os cara ein rapaziada", 
+            "fala":" \"Vo fatia os cara ein rapaziada \"", 
             "jogador":"Titan",
             "player_id":9
         },
         {
             "id":19,
-            "fala":"Ta tiltado cabelo rosa ", 
+            "fala":" \"Ta tiltado cabelo rosa \" ", 
             "jogador":"duds",
             "player_id":98
         }
         ,
         {
             "id":20,
-            "fala":"Não aprendeu a jogar de ad ate hoje  ", 
+            "fala":" \"Não aprendeu a jogar de ad ate hoje \"  ", 
             "jogador":"Robo",
             "player_id":16
         },
         {
             "id":21,
-            "fala":"Você vai levantar a mão para mim? para mim? não levanta a mão para mim! pensa duas vezes antes de levantar a mão para mim, ta bobinho! ", 
+            "fala":" \"Você vai levantar a mão para mim? para mim? não levanta a mão para mim! pensa duas vezes antes de levantar a mão para mim, ta bobinho! \" ", 
             "jogador":"zuao",
             "player_id":157
         },
         {
             "id":22,
-            "fala":"Aaaah inocente, vai focar o meu suporte?", 
+            "fala":" \"Aaaah inocente, vai focar o meu suporte? \"", 
             "jogador":"brtt",
             "player_id":48
         },
         {
             "id":23,
-            "fala":"Isso aqui não é um time, essa porra é uma familha, se vocês tão vendo que alguem ta correndo perigo você vai deixar morrer teu irmão? ", 
+            "fala":" \"Isso aqui não é um time, essa porra é uma familha, se vocês tão vendo que alguem ta correndo perigo você vai deixar morrer teu irmão? \" ", 
             "jogador":"brtt",
             "player_id":48
         },
         {
             "id":24,
-            "fala":"Cade o Dream team? Cade o dream team? aqui é nois porra", 
+            "fala":" \"Cade o Dream team? Cade o dream team? aqui é nois porra \"", 
             "jogador":"Ranger",
             "player_id":93
         },
         {
             "id":25,
-            "fala":"Essa é a G2 brasileira vai 4 para o top ", 
+            "fala":" \"Essa é a G2 brasileira vai 4 para o top \"", 
             "jogador":"Robo",
             "player_id":16
         },
         {
             "id":26,
-            "fala":"é isso que a gente vai ver quando eu amassar seu crânio  ", 
+            "fala":" \"é isso que a gente vai ver quando eu amassar seu crânio \"  ", 
             "jogador":"absolut",
             "player_id":134
         },
         {
             "id":27 ,
-            "fala":"Para ganhar da pain não precisa nem dormir", 
+            "fala":" \"Para ganhar da pain não precisa nem dormir \"", 
             "jogador":"Ranger",
             "player_id":93
         },
         {
             "id":28 ,
-            "fala":"seu chokerzinho você é choker", 
+            "fala":" \"seu chokerzinho você é choker \"", 
             "jogador":"aegis",
             "player_id":12
         },
         {
             "id":29 ,
-            "fala":"Vocês vão para casa, não vai jogar mundial não, voces são fraco", 
+            "fala":" \"Vocês vão para casa, não vai jogar mundial não, voces são fraco \"", 
             "jogador":"Shini",
             "player_id":158
         },
         {
             "id":30 ,
-            "fala":"Why luci?", 
+            "fala":" \"Why luci? \"", 
             "jogador":"brtt",
             "player_id":48
         },
         {
             "id":31 ,
-            "fala":"Isto é crise", 
+            "fala":" \"Isto é crise \"", 
             "jogador":"Guigo",
             "player_id":21
         },
         {
             "id":32 ,
-            "fala":"O Lee sin não joga a fight o Lee sin não joga a fight, olha o Lee sin atras de você Duds ", 
+            "fala":" \"O Lee sin não joga a fight o Lee sin não joga a fight, olha o Lee sin atras de você Duds \" ", 
             "jogador":"Tay",
             "player_id":71
         },
         {
             "id":33 ,
-            "fala":"Não to escutando NADAAAAA", 
+            "fala":" \"Não to escutando NADAAAAA \"", 
             "jogador":"Damage",
             "player_id":39
         },
         {
             "id":34 ,
-            "fala":"A gente vai para China caralho ", 
+            "fala":" \"A gente vai para China caralho \" ", 
             "jogador":"Grevtar",
             "player_id":13
         },
         {
             "id":35 ,
-            "fala":"Respeita meu poppy porra", 
+            "fala":" \"Respeita meu poppy porra \"", 
             "jogador":"Croc",
             "player_id":74
         },
         {
             "id":36 ,
-            "fala":"Caiu na vila o peixe fuzila ", 
+            "fala":" \"Caiu na vila o peixe fuzila \" ", 
             "jogador":"Rainbow",
             "player_id":146
         },
         {
             "id":37 ,
-            "fala":"mesmo a gente sendo ruim a gente é melhor que vocês ta bom? ", 
+            "fala":" \"mesmo a gente sendo ruim a gente é melhor que vocês ta bom? \" ", 
             "jogador":"Rainbow"
         },
         {
             "id":38 ,
-            "fala":"Mylo gay ", 
+            "fala":" \"Mylo gay \"", 
             "jogador":"winged",
             "player_id":185
         }
         ,
         {
             "id":39 ,
-            "fala":"Respeito o filho Pai ", 
+            "fala":" \"Respeito o filho Pai \"", 
             "jogador":"Luskao",
             "player_id":99
         },
         {
             "id":40 ,
-            "fala":"O pai é quente, até perdendo o pai grita ta?",  
+            "fala":" \"O pai é quente, até perdendo o pai grita ta? \"",  
             "jogador":"Ranger",
             "player_id":93
         }
