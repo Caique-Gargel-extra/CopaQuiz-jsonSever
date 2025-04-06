@@ -1084,17 +1084,7 @@
             "idade":24,
             "nacionalidade":"Coreia"
         },
-        {
-            "id":98,
-            "name":"DudsTheBoy",
-            "Org":["Kabum","LOUD","Tshow","Redemption"],
-            "Titulos": 1,
-            "Position":"ADC",
-            "Current":"NÃO ATUANDO",
-            
-            "idade":28,
-            "nacionalidade":"Brasil"
-        },
+        
         {
             "id":98,
             "name":"scuro",
@@ -1297,16 +1287,7 @@
             "idade":29,
             "nacionalidade":"Brasil"
         },
-        {
-            "id":116,
-            "name":"Erasus",
-            "Org":["Rensga"],
-            "Titulos": 0,
-            "Position":"JUNGLE",
-            "Current":"NÃO ATUANDO",
-            "idade":24,
-            "nacionalidade":"Brasil"
-        },
+        
         {
             "id":117,
             "name":"Mewkyo",
@@ -2283,16 +2264,7 @@
             "idade":0,
             "nacionalidade":"Brasil"
         },
-        {
-            "id":213,
-            "name":"Piolho",
-            "Org":["Dexterity"],
-            "Titulos": 0,
-            "Position":"JUNGLE",
-            "Current":"NÃO ATUANDO",
-            "idade":28,
-            "nacionalidade":"Brasil"
-        },
+        
         {
             "id":214,
             "name":"PrZo",
@@ -2505,6 +2477,37 @@
             "Current":"NÃO ATUANDO",
             "idade":24,
             "nacionalidade":"Peru"
+        },
+        {
+            "id":234,
+            "name":"DudsTheBoy",
+            "Org":["Kabum","LOUD","Tshow","Redemption"],
+            "Titulos": 1,
+            "Position":"ADC",
+            "Current":"NÃO ATUANDO",
+            
+            "idade":28,
+            "nacionalidade":"Brasil"
+        },
+        {
+            "id":235,
+            "name":"Erasus",
+            "Org":["Rensga"],
+            "Titulos": 0,
+            "Position":"JUNGLE",
+            "Current":"NÃO ATUANDO",
+            "idade":24,
+            "nacionalidade":"Brasil"
+        },
+        {
+            "id":236,
+            "name":"Piolho",
+            "Org":["Dexterity"],
+            "Titulos": 0,
+            "Position":"JUNGLE",
+            "Current":"NÃO ATUANDO",
+            "idade":28,
+            "nacionalidade":"Brasil"
         }
         
         
