@@ -2763,6 +2763,7 @@
         }
     ],
     "finais":[
+      
         {
             "id":1,
             "split":1,
@@ -2770,23 +2771,12 @@
             "campeao":"Pain",
             "vice":"CNB",
             "resultado":"3x1",
-            "foto":"2013-Split-1-game1",
-            "partida":1
+            "foto":"2013-Split-1-game4",
+            "partida":4
             
         },
         {
             "id":2,
-            "split":1,
-            "ano":"2013",
-            "campeao":"Pain",
-            "vice":"CNB",
-            "resultado":"3x1",
-            "foto":"2013-Split-1-game3",
-            "partida":3
-            
-        },
-        {
-            "id":3,
             "split":1,
             "ano":"2014",
             "campeao":"Keyd",
@@ -2796,19 +2786,9 @@
             "partida":2
             
         },
+       
         {
-            "id":4,
-            "split":2,
-            "ano":"2014",
-            "campeao":"Kabum",
-            "vice":"CNB",
-            "resultado":"3x1",
-            "foto":"2014-Split-2-game1",
-            "partida":1
-            
-        },
-        {
-            "id":5,
+            "id":3,
             "split":2,
             "ano":"2014",
             "campeao":"Kabum",
@@ -2819,7 +2799,7 @@
             
         },
         {
-            "id":6,
+            "id":4,
             "split":1,
             "ano":"2015",
             "campeao":"INTZ",
@@ -2829,41 +2809,10 @@
             "partida":1
             
         },
+        
+       
         {
-            "id":7,
-            "split":1,
-            "ano":"2015",
-            "campeao":"INTZ",
-            "vice":"Keyd",
-            "resultado":"3x0",
-            "foto":"2015-Split-1-game2",
-            "partida":2
-            
-        },
-        {
-            "id":8,
-            "split":2,
-            "ano":"2015",
-            "campeao":"Pain",
-            "vice":"INTZ",
-            "resultado":"3x0",
-            "foto":"2015-Split-2-game1",
-            "partida":1
-            
-        },
-        {
-            "id":9,
-            "split":2,
-            "ano":"2015",
-            "campeao":"Pain",
-            "vice":"INTZ",
-            "resultado":"3x0",
-            "foto":"2015-Split-2-game2",
-            "partida":2
-            
-        },
-        {
-            "id":10,
+            "id":5,
             "split":2,
             "ano":"2015",
             "campeao":"Pain",
@@ -2871,6 +2820,207 @@
             "resultado":"3x0",
             "foto":"2015-Split-2-game3",
             "partida":3
+            
+        },
+        {
+            "id":6,
+            "split":1,
+            "ano":"2016",
+            "campeao":"INTZ",
+            "vice":"Keyd",
+            "resultado":"3x0",
+            "foto":"2016-Split-1-game3",
+            "partida":3
+            
+        },
+        {
+            "id":7,
+            "split":2,
+            "ano":"2016",
+            "campeao":"INTZ",
+            "vice":"CNB",
+            "resultado":"3x1",
+            "foto":"2016-Split-2-game4",
+            "partida":4
+            
+        },
+        {
+            "id":8,
+            "split":1,
+            "ano":"2017",
+            "campeao":"RED Canids",
+            "vice":"CNB",
+            "resultado":"3x0",
+            "foto":"2017-Split-1-game3",
+            "partida":3
+            
+        },
+        {
+            "id":9,
+            "split":2,
+            "ano":"2017",
+            "campeao":"Team oNe",
+            "vice":"Pain",
+            "resultado":"3x1",
+            "foto":"2017-Split-2-game4",
+            "partida":4
+            
+        },
+        {
+            "id":10,
+            "split":1,
+            "ano":"2018",
+            "campeao":"Kabum",
+            "vice":"Keyd",
+            "resultado":"3x2",
+            "foto":"2018-Split-1-game5",
+            "partida":5
+            
+        },
+        {
+            "id":11,
+            "split":2,
+            "ano":"2018",
+            "campeao":"Kabum",
+            "vice":"FLAMENGO",
+            "resultado":"3x2",
+            "foto":"2018-Split-2-game5",
+            "partida":5
+            
+        }
+        ,
+        {
+            "id":12,
+            "split":1,
+            "ano":"2019",
+            "campeao":"INTZ",
+            "vice":"FLAMENGO",
+            "resultado":"3x2",
+            "foto":"2019-Split-1-game5",
+            "partida":5
+            
+        },
+        {
+            "id":13,
+            "split":2,
+            "ano":"2019",
+            "campeao":"FLAMENGO",
+            "vice":"INTZ",
+            "resultado":"3x2",
+            "foto":"2019-Split-2-game5",
+            "partida":5
+            
+        },
+        {
+            "id":14,
+            "split":1,
+            "ano":"2020",
+            "campeao":"Kabum",
+            "vice":"FLAMENGO",
+            "resultado":"3x0",
+            "foto":"2020-Split-1-game3",
+            "partida":3
+            
+        },
+        {
+            "id":15,
+            "split":2,
+            "ano":"2020",
+            "campeao":"INTZ",
+            "vice":"Pain",
+            "resultado":"3x1",
+            "foto":"2020-Split-2-game4",
+            "partida":4
+            
+        },
+        {
+            "id":16,
+            "split":1,
+            "ano":"2021",
+            "campeao":"Pain",
+            "vice":"Vorax",
+            "resultado":"3x1",
+            "foto":"2021-Split-1-game4",
+            "partida":4
+            
+        },
+        {
+            "id":17,
+            "split":2,
+            "ano":"2021",
+            "campeao":"RED Canids",
+            "vice":"Rensga",
+            "resultado":"3x1",
+            "foto":"2021-Split-2-game4",
+            "partida":4
+            
+        },
+        {
+            "id":18,
+            "split":1,
+            "ano":"2022",
+            "campeao":"RED Canids",
+            "vice":"Pain",
+            "resultado":"3x2",
+            "foto":"2022-Split-1-game5",
+            "partida":5
+            
+        },
+        {
+            "id":19,
+            "split":2,
+            "ano":"2022",
+            "campeao":"LOUD",
+            "vice":"Pain",
+            "resultado":"3x0",
+            "foto":"2022-Split-2-game5",
+            "partida":3
+            
+        }
+        ,
+        {
+            "id":20,
+            "split":1,
+            "ano":"2023",
+            "campeao":"LOUD",
+            "vice":"Pain",
+            "resultado":"3x0",
+            "foto":"2023-Split-1-game3",
+            "partida":3
+            
+        }
+        ,
+        {
+            "id":21,
+            "split":2,
+            "ano":"2023",
+            "campeao":"LOUD",
+            "vice":"Pain",
+            "resultado":"3x1",
+            "foto":"2023-Split-2-game4",
+            "partida":4
+            
+        },
+        {
+            "id":22,
+            "split":1,
+            "ano":"2024",
+            "campeao":"LOUD",
+            "vice":"Pain",
+            "resultado":"3x2",
+            "foto":"2024-Split-1-game5",
+            "partida":5
+            
+        },
+        {
+            "id":23,
+            "split":2,
+            "ano":"2024",
+            "campeao":"Pain",
+            "vice":"Keyd",
+            "resultado":"3x1",
+            "foto":"2024-Split-2-game4",
+            "partida":4
             
         }
     ]
