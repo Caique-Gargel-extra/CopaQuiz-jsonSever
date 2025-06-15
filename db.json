@@ -297,7 +297,7 @@
             "id":27,
             "name":"Drakehero",
             "Org":["FLUXO","Liberty"],
-            "Titulos": 2,
+            "Titulos": 0,
             "Position":"JUNGLE",
             "Current":"NÃO ATUANDO",
             
@@ -1808,7 +1808,7 @@
             "id":168,
             "name":"4LaN",
             "Org":["Team oNe","Brave"],
-            "Titulos": 0,
+            "Titulos": 1,
             "Position":"JUNGLE",
             "Current":"NÃO ATUANDO",
             "idade":26,
@@ -2740,7 +2740,8 @@
         {
             "id":37 ,
             "fala":" \"mesmo a gente sendo ruim a gente é melhor que vocês ta bom? \" ", 
-            "jogador":"Rainbow"
+            "jogador":"zuao",
+            "player_id":157
         },
         {
             "id":38 ,
