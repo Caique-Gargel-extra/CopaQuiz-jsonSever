@@ -3023,6 +3023,74 @@
             "foto":"2024-Split-2-game4",
             "partida":4
             
+        },
+        {
+            "id":24,
+            "split":2,
+            "ano":"2025",
+            "campeao":"Furia",
+            "vice":"Pain",
+            "resultado":"3x0",
+            "foto":"2025-Split-2-game3",
+            "partida":3
+
+        }
+    ],
+    "lineups":[
+        {
+            "id":1,
+            "time":"FURIA",
+            "ano":2025,
+            "Split":2,
+            "TOP":"Guigo",
+            "JUNGLE":"Tatu",
+            "MID":"Tutsz",
+            "ADC":"Ayu",
+            "SUP":"JoJo"
+        },
+        {
+            "id":2,
+            "time":"PAIN",
+            "ano":2025,
+            "Split":2,
+            "TOP":"Wizer",
+            "JUNGLE":"CarioK",
+            "MID":"Roamer",
+            "ADC":"TitaN",
+            "SUP":"Kuri"
+        },
+        {
+            "id":3,
+            "time":"PAIN",
+            "ano":2015,
+            "Split":2,
+            "TOP":"Mylon",
+            "JUNGLE":"Sirt",
+            "MID":"Kami",
+            "ADC":"brTT",
+            "SUP":"Dioud"
+        },
+        {
+            "id":4,
+            "time":"INTZ",
+            "ano":2015,
+            "Split":2,
+            "TOP":"Yang",
+            "JUNGLE":"Jockster",
+            "MID":"Tockers",
+            "ADC":"micaO",
+            "SUP":"Alocs"
+        },
+        {
+            "id":5,
+            "time":"INTZ",
+            "ano":2015,
+            "Split":1,
+            "TOP":"Yang",
+            "JUNGLE":"Revolta",
+            "MID":"Tockers",
+            "ADC":"micaO",
+            "SUP":"Jockster"
         }
     ]
 }
