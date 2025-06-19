@@ -2518,8 +2518,27 @@
             "Current":"NÃO ATUANDO",
             "idade":0,
             "nacionalidade":"Brasil"
+        },
+        {
+            "id":237,
+            "name":"Caos",
+            "Org":["Red Canids"],
+            "Titulos": 0,
+            "Position":"JUNGLE",
+            "Current":"NÃO ATUANDO",
+            "idade":28,
+            "nacionalidade":"Brasil"
+        },
+        {
+            "id":1001,
+            "name":"esA",
+            "Org":["Pain","Flamengo","Vivo Keyd","CNB"],
+            "Titulos": 0,
+            "Position":"ADC",
+            "Current":"NÃO ATUANDO",
+            "idade":31,
+            "nacionalidade":"Brasil"
         }
-        
         
 
 
@@ -3179,7 +3198,284 @@
             "MID":"takeshi",
             "ADC":"esA",
             "SUP":"Loop"
+        },
+        {
+            "id":13,
+            "time":"CNB",
+            "ano":2016,
+            "Split":1,
+            "TOP":"Aoshi",
+            "JUNGLE":"Nappon",
+            "MID":"YoDa",
+            "ADC":" pbo",
+            "SUP":"Loop"
+        },
+        {
+            "id":14,
+            "time":"INTZ",
+            "ano":2016,
+            "Split":1,
+            "TOP":"Yang",
+            "JUNGLE":"Revolta",
+            "MID":"Tockers",
+            "ADC":"micaO",
+            "SUP":"Jockster"
+        },
+        {
+            "id":15,
+            "time":"kabum",
+            "ano":2016,
+            "Split":1,
+            "TOP":"LEP",
+            "JUNGLE":"Minerva",
+            "MID":"TinOwns",
+            "ADC":"Matsukaze",
+            "SUP":"Ziriguidun"
+        },
+        {
+            "id":16,
+            "time":"Vivo Keyd",
+            "ano":2016,
+            "Split":1,
+            "TOP":"Robo",
+            "JUNGLE":"Turtle",
+            "MID":"takeshi",
+            "ADC":"esA",
+            "SUP":"Baiano"
+        },
+        {
+            "id":17,
+            "time":"Operation Kino",
+            "ano":2016,
+            "Split":1,
+            "TOP":"SkyBart",
+            "JUNGLE":"Zuao",
+            "MID":"Goku",
+            "ADC":"Theusma",
+            "SUP":"Professor"
+        },
+        {
+            "id":18,
+            "time":"PAIN",
+            "ano":2016,
+            "Split":1,
+            "TOP":"Mylon",
+            "JUNGLE":"SirT",
+            "MID":"Kami",
+            "ADC":"brTT",
+            "SUP":"Picoca"
+        },
+        {
+            "id":19,
+            "time":"RED Canids",
+            "ano":2016,
+            "Split":1,
+            "TOP":"Ayel",
+            "JUNGLE":"Caos",
+            "MID":"Brucer",
+            "ADC":"Sacy",
+            "SUP":"Eryon"
+        },
+        {
+            "id":20,
+            "time":"CNB",
+            "ano":2016,
+            "Split":2,
+            "TOP":"LEP",
+            "JUNGLE":"Minerva",
+            "MID":"TinOwns",
+            "ADC":"pbo",
+            "SUP":"Wos"
+        },
+        {
+            "id":21,
+            "time":"INTZ",
+            "ano":2016,
+            "Split":2,
+            "TOP":"Yang",
+            "JUNGLE":"Revolta",
+            "MID":"Tockers",
+            "ADC":"micaO",
+            "SUP":"Jockster"
+        },
+        {
+            "id":22,
+            "time":"kabum",
+            "ano":2016,
+            "Split":2,
+            "TOP":"Zantins",
+            "JUNGLE":"Danagorn",
+            "MID":"Vash",
+            "ADC":"Matsukaze",
+            "SUP":"Verfix"
+        },
+        {
+            "id":23,
+            "time":"Vivo Keyd",
+            "ano":2016,
+            "Split":2,
+            "TOP":"Robo",
+            "JUNGLE":"Nappon",
+            "MID":"takeshi",
+            "ADC":"esA",
+            "SUP":"Baiano"
+        },
+        {
+            "id":24,
+            "time":"Operation Kino",
+            "ano":2016,
+            "Split":2,
+            "TOP":"SkyBart",
+            "JUNGLE":"Turtle",
+            "MID":"Goku",
+            "ADC":"Skyer",
+            "SUP":"Professor"
+        },
+        {
+            "id":25,
+            "time":"CNB",
+            "ano":2017,
+            "Split":1,
+            "TOP":"LEP",
+            "JUNGLE":"Minerva",
+            "MID":"TinOwns",
+            "ADC":"pbo",
+            "SUP":"Wos"
+        },
+        {
+            "id":26,
+            "time":"INTZ",
+            "ano":2017,
+            "Split":1,
+            "TOP":"Ayel",
+            "JUNGLE":"Turtle",
+            "MID":"Envy",
+            "ADC":"micaO",
+            "SUP":"Jockster"
+        },
+        {
+            "id":27,
+            "time":"Kabum",
+            "ano":2017,
+            "Split":1,
+            "TOP":"Zantins",
+            "JUNGLE":"Danagorn",
+            "MID":"Vash",
+            "ADC":"TheFoxz",
+            "SUP":"Riyev"
+        },
+        {
+            "id":28,
+            "time":"Vivo Keyd",
+            "ano":2017,
+            "Split":1,
+            "TOP":"Yang",
+            "JUNGLE":"Revolta",
+            "MID":"takeshi",
+            "ADC":"esA",
+            "SUP":"Zirigui"
+        },
+        {
+            "id":29,
+            "time":"Operation Kino",
+            "ano":2017,
+            "Split":1,
+            "TOP":"Aoshi",
+            "JUNGLE":"Ranger",
+            "MID":"Dynquedo",
+            "ADC":"Luskka",
+            "SUP":"BocaJR"
+        },
+        {
+            "id":30,
+            "time":"PAIN",
+            "ano":2017,
+            "Split":1,
+            "TOP":"Mylon",
+            "JUNGLE":"SirT",
+            "MID":"Kami",
+            "ADC":"Matsukaze",
+            "SUP":"Loop"
+        },
+        {
+            "id":31,
+            "time":"RED Canids",
+            "ano":2017,
+            "Split":1,
+            "TOP":"Robo",
+            "JUNGLE":"Nappon",
+            "MID":"tockers",
+            "ADC":"brTT",
+            "SUP":"Dioud"
+        },
+        {
+            "id":32,
+            "time":"CNB",
+            "ano":2017,
+            "Split":2,
+            "TOP":"Lep",
+            "JUNGLE":"Minerva",
+            "MID":"Tinowns",
+            "ADC":"pbO",
+            "SUP":"Wos"
+        },
+        {
+            "id":33,
+            "time":"INTZ",
+            "ano":2017,
+            "Split":2,
+            "TOP":"Ayel",
+            "JUNGLE":"Shini",
+            "MID":"Envy",
+            "ADC":"micaO",
+            "SUP":"Jockster"
+        },
+        {
+            "id":34,
+            "time":"Vivo Keyd",
+            "ano":2017,
+            "Split":2,
+            "TOP":"Yang",
+            "JUNGLE":"Revolta",
+            "MID":"takeshi",
+            "ADC":"esA",
+            "SUP":"Zirigui"
+        },
+        {
+            "id":35,
+            "time":"ProGaming",
+            "ano":2017,
+            "Split":2,
+            "TOP":"SkyBart",
+            "JUNGLE":"Ranger",
+            "MID":"Goku",
+            "ADC":"LUSKKA",
+            "SUP":"Professor"
+        },
+        {
+            "id":36,
+            "time":"RED Canids",
+            "ano":2017,
+            "Split":2,
+            "TOP":"Robo",
+            "JUNGLE":"Nappon",
+            "MID":"tockers",
+            "ADC":"brTT",
+            "SUP":"Dioud"
+        },
+        {
+            "id":37,
+            "time":"Team oNe",
+            "ano":2017,
+            "Split":2,
+            "TOP":"VVvert",
+            "JUNGLE":"4LaN",
+            "MID":"Brucer",
+            "ADC":"Absolut",
+            "SUP":"RedBert"
         }
+        
+        
         
 
     ]
