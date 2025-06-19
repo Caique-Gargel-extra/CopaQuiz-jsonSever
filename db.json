@@ -2508,6 +2508,16 @@
             "Current":"NÃO ATUANDO",
             "idade":28,
             "nacionalidade":"Brasil"
+        },
+        {
+            "id":236,
+            "name":"Electro",
+            "Org":["CNB"],
+            "Titulos": 0,
+            "Position":"MID",
+            "Current":"NÃO ATUANDO",
+            "idade":0,
+            "nacionalidade":"Brasil"
         }
         
         
@@ -3039,47 +3049,48 @@
     "lineups":[
         {
             "id":1,
-            "time":"FURIA",
-            "ano":2025,
-            "Split":2,
-            "TOP":"Guigo",
-            "JUNGLE":"Tatu",
-            "MID":"Tutsz",
-            "ADC":"Ayu",
-            "SUP":"JoJo"
+            "time":"CNB",
+            "ano":2014,
+            "Split":1,
+            "TOP":"Leko",
+            "JUNGLE":"Revolta",
+            "MID":"takeshi",
+            "ADC":"manajj",
+            "SUP":"Alocs"
         },
         {
             "id":2,
-            "time":"PAIN",
-            "ano":2025,
-            "Split":2,
-            "TOP":"Wizer",
-            "JUNGLE":"CarioK",
-            "MID":"Roamer",
-            "ADC":"TitaN",
-            "SUP":"Kuri"
-        },
+            "time":"Vivo Keyd",
+            "ano":2014,
+            "Split":1,
+            "TOP":"Mylon",
+            "JUNGLE":"Winged",
+            "MID":"SuNo",
+            "ADC":"brTT",
+            "SUP":"Loop"
+        }
+        ,
         {
             "id":3,
-            "time":"PAIN",
-            "ano":2015,
-            "Split":2,
-            "TOP":"Mylon",
+            "time":"Vivo Keyd",
+            "ano":2014,
+            "Split":1,
+            "TOP":"Lactea",
             "JUNGLE":"Sirt",
             "MID":"Kami",
-            "ADC":"brTT",
-            "SUP":"Dioud"
+            "ADC":"owN",
+            "SUP":"Olleh"
         },
         {
             "id":4,
-            "time":"INTZ",
+            "time":"CNB",
             "ano":2015,
-            "Split":2,
-            "TOP":"Yang",
-            "JUNGLE":"Jockster",
-            "MID":"Tockers",
-            "ADC":"micaO",
-            "SUP":"Alocs"
+            "Split":1,
+            "TOP":"Aoshi",
+            "JUNGLE":"Nappon",
+            "MID":"Electro",
+            "ADC":"Kalec",
+            "SUP":"Wos"
         },
         {
             "id":5,
@@ -3091,6 +3102,85 @@
             "MID":"Tockers",
             "ADC":"micaO",
             "SUP":"Jockster"
+        },
+        {
+            "id":6,
+            "time":"PAIN",
+            "ano":2015,
+            "Split":1,
+            "TOP":"Leko",
+            "JUNGLE":"Sirt",
+            "MID":"Kami",
+            "ADC":"brTT",
+            "SUP":"Dioud"
+        },
+        {
+            "id":7,
+            "time":"Vivo Keyd",
+            "ano":2015,
+            "Split":1,
+            "TOP":"Mylon",
+            "JUNGLE":"DayDream",
+            "MID":"takeshi",
+            "ADC":"Emperor",
+            "SUP":"Loop"
+        },
+        {
+            "id":8,
+            "time":"Kabum Black",
+            "ano":2015,
+            "Split":1,
+            "TOP":"SkyBart",
+            "JUNGLE":"Danagorn",
+            "MID":"Goku",
+            "ADC":"Matsukaze",
+            "SUP":"Espeon"
+        },
+        {
+            "id":9,
+            "time":"CNB",
+            "ano":2015,
+            "Split":2,
+            "TOP":"Aoshi",
+            "JUNGLE":"Nappon",
+            "MID":"YoDa",
+            "ADC":"pbo",
+            "SUP":"Wos"
+        },
+        {
+            "id":10,
+            "time":"Kabum Black",
+            "ano":2015,
+            "Split":2,
+            "TOP":"element",
+            "JUNGLE":"Danagorn",
+            "MID":"Vash",
+            "ADC":"Matsukaze",
+            "SUP":"Espeon"
+        },
+        {
+            "id":11,
+            "time":"PAIN",
+            "ano":2015,
+            "Split":2,
+            "TOP":"Mylon",
+            "JUNGLE":"SirT",
+            "MID":"Kami",
+            "ADC":"brTT",
+            "SUP":"Dioud"
+        },
+        {
+            "id":12,
+            "time":"Vivo Keyd",
+            "ano":2015,
+            "Split":2,
+            "TOP":"Leko",
+            "JUNGLE":"Revolta",
+            "MID":"takeshi",
+            "ADC":"esA",
+            "SUP":"Loop"
         }
+        
+
     ]
 }
