@@ -197,7 +197,7 @@
             "id":18,
             "name":"tinowns",
             "Org":["LOUD","Pain","CNB","Kabum"],
-            "Titulos": 5,
+            "Titulos": 6,
             "Position":"MID",
             "Current":"ATUANDO",
             
@@ -1454,7 +1454,7 @@
             "name":"pbO",
             "Org":["CNB"],
             "Titulos": 0,
-            "Position":"SUP",
+            "Position":"ADC",
             "Current":"NÃO ATUANDO",
             "idade":0,
             "nacionalidade":"Brasil"
