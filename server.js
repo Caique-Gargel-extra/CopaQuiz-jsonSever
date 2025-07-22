@@ -1,7 +1,7 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
-
+const middlewares = jsonServer.defaults({ readOnly: true });
 
 // Lista de origens permitidas
 const allowedOrigins = [
@@ -26,7 +26,7 @@ server.use((req, res, next) => {
   next();
 });
 
-
+server.use(middlewares);
 
 // Reescreve rotas
 server.use(
