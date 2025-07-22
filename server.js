@@ -6,10 +6,6 @@ const router = jsonServer.router("db.json");
 // Make sure to use the default middleware
 const middlewares = jsonServer.defaults({readOnly:true});
 
-server.use(cors({
-  origin: ['http://localhost:3000', 'https://cbloldle.vercel.app','https://api-storage-tiaw-one.vercel.app','http://localhost:3001']
-}));
-
 server.use(middlewares);
 // Add this before server.use(router)
 server.use(
