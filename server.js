@@ -7,7 +7,8 @@ const middlewares = jsonServer.defaults({ readOnly: true });
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://cbloldle.vercel.app"
+  "https://cbloldle.vercel.app",
+  "https://cbloldle-backend-sdma.vercel.app"
 ];
 
 // Middleware para configurar CORS (antes do router)
