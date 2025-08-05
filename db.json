@@ -1050,6 +1050,18 @@
       "nacionalidade": "Suécia"
     },
     {
+      "id": 79,
+      "name": "Leza",
+      "Org": [
+        "Isurus Estral"
+      ],
+      "Titulos": 0,
+      "Position": "MID",
+      "Current": "ATUANDO",
+      "idade": 26,
+      "nacionalidade": "Argentina"
+    },
+    {
       "id": 80,
       "name": "Goot",
       "Org": [
@@ -1490,6 +1502,18 @@
       "nacionalidade": "Coreia"
     },
     {
+      "id": 113,
+      "name": "ZOEN",
+      "Org": [
+        "Isurus Estral"
+      ],
+      "Titulos": 0,
+      "Position": "TOP",
+      "Current": "ATUANDO",
+      "idade": 19,
+      "nacionalidade": "Argentina"
+    },
+    {
       "id": 114,
       "name": "Trap",
       "Org": [
@@ -1629,6 +1653,18 @@
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
+    },
+    {
+      "id": 124,
+      "name": "TopLop",
+      "Org": [
+        "Leviatan"
+      ],
+      "Titulos": 0,
+      "Position": "SUP",
+      "Current": "ATUANDO",
+      "idade": 25,
+      "nacionalidade": "Argentina"
     },
     {
       "id": 125,
@@ -2351,6 +2387,18 @@
       "Position": "MID",
       "Current": "NÃO ATUANDO",
       "idade": 28,
+      "nacionalidade": "Brasil"
+    },
+    {
+      "id": 180,
+      "name": "curty",
+      "Org": [
+        "Fluxo"
+      ],
+      "Titulos": 0,
+      "Position": "TOP",
+      "Current": "ATUANDO",
+      "idade": 18,
       "nacionalidade": "Brasil"
     },
     {
@@ -3161,54 +3209,8 @@
       "idade": 23,
       "nacionalidade": "Coreia"
     },
-    {
-      "id": 244,
-      "name": "curty",
-      "Org": [
-        "Fluxo"
-      ],
-      "Titulos": 0,
-      "Position": "TOP",
-      "Current": "ATUANDO",
-      "idade": 18,
-      "nacionalidade": "Brasil"
-    },
-    {
-      "id": 245,
-      "name": "TopLop",
-      "Org": [
-        "Leviatan"
-      ],
-      "Titulos": 0,
-      "Position": "SUP",
-      "Current": "ATUANDO",
-      "idade": 25,
-      "nacionalidade": "Argentina"
-    },
-    {
-      "id": 246,
-      "name": "ZOEN",
-      "Org": [
-        "Isurus Estral"
-      ],
-      "Titulos": 0,
-      "Position": "TOP",
-      "Current": "ATUANDO",
-      "idade": 19,
-      "nacionalidade": "Argentina"
-    },
-    {
-      "id": 247,
-      "name": "Leza",
-      "Org": [
-        "Isurus Estral"
-      ],
-      "Titulos": 0,
-      "Position": "MID",
-      "Current": "ATUANDO",
-      "idade": 26,
-      "nacionalidade": "Argentina"
-    },
+    
+    
     {
       "id": -100,
       "name": "esA",
