@@ -3209,6 +3209,18 @@
       "idade": 23,
       "nacionalidade": "Coreia"
     },
+    {
+      "id": 244,
+      "name": "Aslan",
+      "Org": [
+        "CNB"
+      ],
+      "Titulos": 0,
+      "Position": "MID",
+      "Current": "NÃO ATUANDO",
+      "idade": 0,
+      "nacionalidade": "Brasil"
+    },
     
     
     {
@@ -4118,6 +4130,237 @@
       "MID": 169,
       "ADC": 134,
       "SUP": 75
+    },
+    {
+      "id": 38,
+      "time": "CNB",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 16,
+      "JUNGLE": 36,
+      "MID": 181,
+      "ADC": 133,
+      "SUP": 182
+    },
+    {
+      "id": 39,
+      "time": "INTZ",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 123,
+      "JUNGLE": 158,
+      "MID": 47,
+      "ADC": 134,
+      "SUP": 137
+    },
+    {
+      "id": 40,
+      "time": "KaBuM",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 171,
+      "JUNGLE": 93,
+      "MID": 8,
+      "ADC": 9,
+      "SUP": 172
+    },
+    {
+      "id": 41,
+      "time": "ProGaming",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 167,
+      "JUNGLE": 116,
+      "MID": 118,
+      "ADC": 99,
+      "SUP": 128
+    },
+    {
+      "id": 42,
+      "time": "RED Canids",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 174,
+      "JUNGLE": 185,
+      "MID": 176,
+      "ADC": 177,
+      "SUP": 149
+    },
+    {
+      "id": 43,
+      "time": "Vivo Keyd",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 140,
+      "JUNGLE": 141,
+      "MID": 179,
+      "ADC": 43,
+      "SUP": 107
+    },
+    {
+      "id": 44,
+      "time": "Flamengo",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 183,
+      "JUNGLE": 162,
+      "MID": 118,
+      "ADC": 48,
+      "SUP": 142
+    },
+    {
+      "id": 45,
+      "time": "Ilha da Macacada",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 151,
+      "JUNGLE": 7,
+      "MID": 111,
+      "ADC": 147,
+      "SUP": 149
+    },
+    {
+      "id": 46,
+      "time": "INTZ",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 71,
+      "JUNGLE": 158,
+      "MID": 47,
+      "ADC": 134,
+      "SUP": 75
+    },
+    {
+      "id": 47,
+      "time": "KaBuM",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 171,
+      "JUNGLE": 93,
+      "MID": 8,
+      "ADC": 9,
+      "SUP": 172
+    },
+    {
+      "id": 48,
+      "time": "RED Canids",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 174,
+      "JUNGLE": 175,
+      "MID": 176,
+      "ADC": 177,
+      "SUP": 178
+    },
+    {
+      "id": 49,
+      "time": "Vivo Keyd",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 140,
+      "JUNGLE": 141,
+      "MID": 179,
+      "ADC": 43,
+      "SUP": 107
+    },
+    {
+      "id": 50,
+      "time": "CNB",
+      "ano": 2019,
+      "Split": 1,
+      "TOP": 160,
+      "JUNGLE": 36,
+      "MID": 244,
+      "ADC": 133,
+      "SUP": 122
+    },
+    {
+      "id": 51,
+      "time": "Flamengo",
+      "ano": 2019,
+      "Split": 1,
+      "TOP": 16,
+      "JUNGLE": 162,
+      "MID": 118,
+      "ADC": 48,
+      "SUP": 132
+    },
+    {
+      "id": 52,
+      "time": "KaBuM",
+      "ano": 2019,
+      "Split": 1,
+      "TOP": 171,
+      "JUNGLE": 93,
+      "MID": 8,
+      "ADC": 9,
+      "SUP": 172
+    },
+    {
+      "id": 53,
+      "time": "Redemption",
+      "ano": 2019,
+      "Split": 1,
+      "TOP": 156,
+      "JUNGLE": 157,
+      "MID": 85,
+      "ADC": 234,
+      "SUP": 34
+    },
+    {
+      "id": 54,
+      "time": "Uppercut",
+      "ano": 2019,
+      "Split": 1,
+      "TOP": 151,
+      "JUNGLE": 159,
+      "MID": 111,
+      "ADC": 138,
+      "SUP": 39
+    },
+    {
+      "id": 55,
+      "time": "Flamengo",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 16,
+      "JUNGLE": 162,
+      "MID": 118,
+      "ADC": 48,
+      "SUP": 132
+    },
+    {
+      "id": 56,
+      "time": "INTZ",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 71,
+      "JUNGLE": 158,
+      "MID": 47,
+      "ADC": 43,
+      "SUP": 75
+    },
+    {
+      "id": 57,
+      "time": "KaBuM",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 6,
+      "JUNGLE": 93,
+      "MID": 8,
+      "ADC": 234,
+      "SUP": 34
+    },
+    {
+      "id": 58,
+      "time": "paiN",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 140,
+      "JUNGLE": 116,
+      "MID": 18,
+      "ADC": 109,
+      "SUP": 142
     }
   ]
 }
