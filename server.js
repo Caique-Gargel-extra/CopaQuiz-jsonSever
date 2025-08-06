@@ -5,6 +5,7 @@ const middlewares = jsonServer.defaults({ readOnly: true });
 
 // Lista de origens permitidas
 const allowedOrigins = [
+  "https://www.cbloldle.com.br",
   "http://localhost:3000",
   "http://localhost:3001",
   "https://cbloldle.vercel.app",
