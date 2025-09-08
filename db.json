@@ -9,7 +9,7 @@
         "LOS",
         "Flamengo"
       ],
-      "Titulos": 0,
+      "Titulos": 1,
       "Position": "TOP",
       "Current": "ATUANDO",
       "idade": 22,
@@ -23,7 +23,7 @@
         "Fluxo",
         "Liberty"
       ],
-      "Titulos": 0,
+      "Titulos": 1,
       "Position": "JUNGLE",
       "Current": "ATUANDO",
       "idade": 21,
@@ -47,7 +47,7 @@
       "Org": [
         "Vivo Keyd"
       ],
-      "Titulos": 0,
+      "Titulos": 1,
       "Position": "ADC",
       "Current": "ATUANDO",
       "idade": 22,
@@ -59,7 +59,7 @@
       "Org": [
         "Vivo Keyd"
       ],
-      "Titulos": 0,
+      "Titulos": 1,
       "Position": "SUP",
       "Current": "ATUANDO",
       "idade": 24,
@@ -816,7 +816,7 @@
         "Vivo Keyd",
         "Isurus Estral"
       ],
-      "Titulos": 0,
+      "Titulos": 1,
       "Position": "MID",
       "Current": "ATUANDO",
       "idade": 23,
