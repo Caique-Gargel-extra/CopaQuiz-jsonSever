@@ -1136,7 +1136,7 @@
       ],
       "Titulos": 0,
       "Position": "MID",
-      "Current": "NÃO ATUANDO",
+      "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
     },
@@ -1459,7 +1459,7 @@
       "Titulos": 0,
       "Position": "ADC",
       "Current": "NÃO ATUANDO",
-      "idade": 28,
+      "idade": 31,
       "nacionalidade": "Brasil"
     },
     {
@@ -2770,7 +2770,7 @@
         "Red Canids",
         "CNB"
       ],
-      "Titulos": 0,
+      "Titulos": 1,
       "Position": "MID",
       "Current": "NÃO ATUANDO",
       "idade": 29,
@@ -3036,7 +3036,7 @@
       "Position": "MID",
       "Current": "NÃO ATUANDO",
       "idade": 30,
-      "nacionalidade": "Brasil"
+      "nacionalidade": "Coreia"
     },
     {
       "id": 230,
