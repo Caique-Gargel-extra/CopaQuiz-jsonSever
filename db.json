@@ -33,7 +33,7 @@
       "id": 3,
       "name": "Kisee",
       "Org": [
-        "Vivo Keyd"
+        "Vivo Keyd "
       ],
       "Titulos": 0,
       "Position": "ADC",
@@ -61,8 +61,8 @@
       ],
       "Titulos": 1,
       "Position": "SUP",
-      "Current": "ATUANDO",
-      "idade": 24,
+      "Current": "NÃO ATUANDO",
+      "idade": 25,
       "nacionalidade": "Polonia"
     },
     {
@@ -74,7 +74,7 @@
       ],
       "Titulos": 1,
       "Position": "TOP",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
     },
@@ -118,7 +118,7 @@
       ],
       "Titulos": 5,
       "Position": "ADC",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
     },
@@ -161,7 +161,7 @@
       ],
       "Titulos": 2,
       "Position": "JUNGLE",
-      "Current": "TIER 2",
+      "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
     },
@@ -209,8 +209,8 @@
       "id": 16,
       "name": "Robo",
       "Org": [
-        "LOUD",
         "Pain",
+        "LOUD",
         "Vivo Keyd",
         "Flamengo",
         "CNB",
@@ -234,7 +234,7 @@
       ],
       "Titulos": 1,
       "Position": "JUNGLE",
-      "Current": "TIER 2",
+      "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
     },
@@ -242,14 +242,14 @@
       "id": 18,
       "name": "tinowns",
       "Org": [
-        "LOUD",
         "Pain",
+        "LOUD",
         "CNB",
         "Kabum"
       ],
       "Titulos": 6,
       "Position": "MID",
-      "Current": "NÃO ATUANDO",
+      "Current": "ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
     },
@@ -261,7 +261,7 @@
       ],
       "Titulos": 3,
       "Position": "ADC",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
     },
@@ -364,13 +364,14 @@
       "id": 27,
       "name": "Drakehero",
       "Org": [
+        "LOS",
         "Alpha7",
         "Fluxo",
         "Liberty"
       ],
       "Titulos": 0,
       "Position": "JUNGLE",
-      "Current": "tier 2",
+      "Current": "ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
     },
@@ -378,11 +379,12 @@
       "id": 28,
       "name": "Fuu",
       "Org": [
+        "Red Canids",
         "Fluxo"
       ],
       "Titulos": 0,
       "Position": "MID",
-      "Current": "ATUANDO",
+      "Current": "TIER 2",
       "idade": 21,
       "nacionalidade": "Brasil"
     },
@@ -390,11 +392,12 @@
       "id": 29,
       "name": "Marvin",
       "Org": [
+        "Pain",
         "Fluxo"
       ],
       "Titulos": 0,
       "Position": "ADC",
-      "Current": "ATUANDO",
+      "Current": "TIER 2",
       "idade": 19,
       "nacionalidade": "Brasil"
     },
@@ -427,9 +430,9 @@
       "id": 32,
       "name": "Hauz",
       "Org": [
+        "Fluxo",
         "Leviatan",
         "Kabum",
-        "Fluxo",
         "INTZ",
         "Rensga"
       ],
@@ -450,8 +453,8 @@
       ],
       "Titulos": 0,
       "Position": "ADC",
-      "Current": "tier 2",
-      "idade": 21,
+      "Current": "NÃO ATUANDO",
+      "idade": 22,
       "nacionalidade": "Brasil"
     },
     {
@@ -473,6 +476,7 @@
       "id": 35,
       "name": "Yupps",
       "Org": [
+        "Pain",
         "INTZ"
       ],
       "Titulos": 0,
@@ -494,7 +498,7 @@
       ],
       "Titulos": 0,
       "Position": "JUNGLE",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
     },
@@ -537,8 +541,8 @@
       ],
       "Titulos": 0,
       "Position": "SUP",
-      "Current": "tier 2",
-      "idade": 27,
+      "Current": "NÃO ATUANDO",
+      "idade": 28,
       "nacionalidade": "Brasil"
     },
     {
@@ -550,7 +554,7 @@
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "tier 2",
+      "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
     },
@@ -601,7 +605,7 @@
       ],
       "Titulos": 0,
       "Position": "SUP",
-      "Current": "tier 2",
+      "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
     },
@@ -613,7 +617,7 @@
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "tier 2",
+      "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
     },
@@ -641,7 +645,7 @@
       ],
       "Titulos": 2,
       "Position": "MID",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 26,
       "nacionalidade": "Brasil"
     },
@@ -730,7 +734,7 @@
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Chile"
     },
@@ -742,7 +746,7 @@
       ],
       "Titulos": 0,
       "Position": "JUNGLE",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
     },
@@ -767,7 +771,7 @@
       "Titulos": 0,
       "Position": "ADC",
       "Current": "ATUANDO",
-      "idade": 21,
+      "idade": 22,
       "nacionalidade": "Argentina"
     },
     {
@@ -805,7 +809,7 @@
       ],
       "Titulos": 0,
       "Position": "JUNGLE",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Argentina"
     },
@@ -830,7 +834,7 @@
       ],
       "Titulos": 0,
       "Position": "ADC",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Argentina"
     },
@@ -838,12 +842,13 @@
       "id": 63,
       "name": "Ackerman",
       "Org": [
+        "LOS",
         "Isurus Estral"
       ],
       "Titulos": 0,
       "Position": "SUP",
       "Current": "ATUANDO",
-      "idade": 22,
+      "idade": 23,
       "nacionalidade": "Argentina"
     },
     {
@@ -857,7 +862,7 @@
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
     },
@@ -905,12 +910,13 @@
       "id": 68,
       "name": "xyno",
       "Org": [
+        "LOUD",
         "FURIA"
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "NÃO ATUANDO",
-      "idade": 17,
+      "Current": "ATUANDO",
+      "idade": 18,
       "nacionalidade": "Brasil"
     },
     {
@@ -964,7 +970,7 @@
       ],
       "Titulos": 0,
       "Position": "MID",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 22,
       "nacionalidade": "Brasil"
     },
@@ -977,7 +983,7 @@
       ],
       "Titulos": 0,
       "Position": "ADC",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 24,
       "nacionalidade": "Brasil"
     },
@@ -1057,7 +1063,7 @@
       ],
       "Titulos": 0,
       "Position": "MID",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Argentina"
     },
@@ -1282,7 +1288,7 @@
       ],
       "Titulos": 0,
       "Position": "ADC",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
     },
@@ -1308,7 +1314,7 @@
       ],
       "Titulos": 0,
       "Position": "SUP",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 0,
       "nacionalidade": "Brasil"
     },
@@ -1509,7 +1515,7 @@
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 19,
       "nacionalidade": "Argentina"
     },
@@ -1534,7 +1540,7 @@
       ],
       "Titulos": 0,
       "Position": "TOP",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 22,
       "nacionalidade": "Brasil"
     },
@@ -1568,7 +1574,7 @@
       ],
       "Titulos": 0,
       "Position": "JUNGLE",
-      "Current": "tier 2",
+      "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
     },
@@ -2398,7 +2404,7 @@
       "Titulos": 0,
       "Position": "TOP",
       "Current": "ATUANDO",
-      "idade": 18,
+      "idade": 19,
       "nacionalidade": "Brasil"
     },
     {
@@ -3054,12 +3060,13 @@
       "id": 231,
       "name": "Jeam Mago",
       "Org": [
+        "LOUD",
         "Red Canids"
       ],
       "Titulos": 0,
       "Position": "MID",
-      "Current": "TIER 2",
-      "idade": 21,
+      "Current": "ATUANDO",
+      "idade": 22,
       "nacionalidade": "Brasil"
     },
     {
@@ -3151,7 +3158,7 @@
     },
     {
       "id": 239,
-      "name": "DOOM",
+      "name": "Curse",
       "Org": [
         "Red Canids"
       ],
@@ -3193,7 +3200,7 @@
       ],
       "Titulos": 0,
       "Position": "JUNGLE",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 18,
       "nacionalidade": "United States"
     },
@@ -3205,7 +3212,7 @@
       ],
       "Titulos": 0,
       "Position": "MID",
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Coreia"
     },
@@ -3221,8 +3228,150 @@
       "idade": 0,
       "nacionalidade": "Brasil"
     },
-    
-    
+    {
+      "id": 245,
+      "name": "Kaiwing",
+      "Org": [
+        "Vivo Keyd"
+      ],
+      "Titulos": 0,
+      "Position": "SUP",
+      "Current": "ATUANDO",
+      "idade": 29,
+      "nacionalidade": "Hong Kong"
+    },
+    {
+      "id": 246,
+      "name": "Peach",
+      "Org": [
+        "Fluxo"
+      ],
+      "Titulos": 0,
+      "Position": "JUNGLE",
+      "Current": "ATUANDO",
+      "idade": 25,
+      "nacionalidade": "Coreia"
+    },
+    {
+      "id": 247,
+      "name": "Bao",
+      "Org": [
+        "Fluxo"
+      ],
+      "Titulos": 0,
+      "Position": "ADC",
+      "Current": "ATUANDO",
+      "idade": 25,
+      "nacionalidade": "Coreia"
+    },
+    {
+      "id": 248,
+      "name": "Devost",
+      "Org": [
+        "Leviatan"
+      ],
+      "Titulos": 0,
+      "Position": "TOP",
+      "Current": "ATUANDO",
+      "idade": 18,
+      "nacionalidade": "Colombia"
+    },
+    {
+      "id": 249,
+      "name": "Booki",
+      "Org": [
+        "Leviatan"
+      ],
+      "Titulos": 0,
+      "Position": "JUNGLE",
+      "Current": "ATUANDO",
+      "idade": 18,
+      "nacionalidade": "Peru"
+    },
+    {
+      "id": 250,
+      "name": "Enga",
+      "Org": [
+        "Leviatan"
+      ],
+      "Titulos": 0,
+      "Position": "MID",
+      "Current": "ATUANDO",
+      "idade": 26,
+      "nacionalidade": "Argentina"
+    },
+     {
+      "id": 251,
+      "name": "YoungJae",
+      "Org": [
+        "LOUD"
+      ],
+      "Titulos": 0,
+      "Position": "JUNGLE",
+      "Current": "ATUANDO",
+      "idade": 23,
+      "nacionalidade": "Coreia"
+    },
+    {
+      "id": 252,
+      "name": "Bull",
+      "Org": [
+        "LOUD"
+      ],
+      "Titulos": 0,
+      "Position": "ADC",
+      "Current": "ATUANDO",
+      "idade": 22,
+      "nacionalidade": "Coreia"
+    },
+    {
+      "id": 253,
+      "name": "Trigger",
+      "Org": [
+        "LOUD"
+      ],
+      "Titulos": 0,
+      "Position": "ADC",
+      "Current": "ATUANDO",
+      "idade": 22,
+      "nacionalidade": "Coreia"
+    },
+     {
+      "id": 254,
+      "name": "Zest",
+      "Org": [
+        "LOS"
+      ],
+      "Titulos": 0,
+      "Position": "TOP",
+      "Current": "ATUANDO",
+      "idade": 22,
+      "nacionalidade": "Coreia"
+    },
+     {
+      "id": 255,
+      "name": "Feisty",
+      "Org": [
+        "LOS"
+      ],
+      "Titulos": 0,
+      "Position": "MID",
+      "Current": "ATUANDO",
+      "idade": 22,
+      "nacionalidade": "Coreia"
+    },
+     {
+      "id": 256,
+      "name": "Duduhh",
+      "Org": [
+        "LOS"
+      ],
+      "Titulos": 0,
+      "Position": "ADC",
+      "Current": "ATUANDO",
+      "idade": 17,
+      "nacionalidade": "Coreia"
+    },
     {
       "id": -100,
       "name": "esA",
