@@ -10,7 +10,7 @@
         "Flamengo"
       ],
       "Titulos": 1,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -24,7 +24,7 @@
         "Liberty"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -36,7 +36,7 @@
         "Vivo Keyd "
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "TIER 2",
       "idade": 21,
       "nacionalidade": "Australia"
@@ -48,7 +48,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -60,7 +60,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 1,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Polonia"
@@ -73,7 +73,7 @@
         "Kabum"
       ],
       "Titulos": 1,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -86,7 +86,7 @@
         "Ilha da Macacada"
       ],
       "Titulos": 2,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -103,7 +103,7 @@
         "OPK"
       ],
       "Titulos": 3,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -117,7 +117,7 @@
         "Kabum"
       ],
       "Titulos": 5,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -131,7 +131,7 @@
         "Flamengo"
       ],
       "Titulos": 1,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 24,
       "nacionalidade": "Coreia"
@@ -147,7 +147,7 @@
         "ProGaming"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -160,7 +160,7 @@
         "Red Canids"
       ],
       "Titulos": 2,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -174,7 +174,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 2,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -188,7 +188,7 @@
         "LOUD"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -200,7 +200,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -218,7 +218,7 @@
         "INTZ"
       ],
       "Titulos": 7,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -233,7 +233,7 @@
         "Kabum"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -248,7 +248,7 @@
         "Kabum"
       ],
       "Titulos": 6,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -260,7 +260,7 @@
         "LOUD"
       ],
       "Titulos": 3,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
@@ -272,7 +272,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "United States"
@@ -286,7 +286,7 @@
         "Red Canids"
       ],
       "Titulos": 3,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -298,7 +298,7 @@
         "FURIA"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 18,
       "nacionalidade": "Brasil"
@@ -312,7 +312,7 @@
         "Kabum"
       ],
       "Titulos": 2,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -324,7 +324,7 @@
         "FURIA"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 19,
       "nacionalidade": "Brasil"
@@ -340,7 +340,7 @@
         "Team oNe"
       ],
       "Titulos": 3,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -355,7 +355,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -370,7 +370,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -383,7 +383,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "TIER 2",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -396,7 +396,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "TIER 2",
       "idade": 19,
       "nacionalidade": "Brasil"
@@ -409,7 +409,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "TIER 2",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -421,7 +421,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Coreia"
@@ -437,7 +437,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -452,7 +452,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -467,7 +467,7 @@
         "Tshow"
       ],
       "Titulos": 4,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -480,7 +480,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "TIER 2",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -497,7 +497,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -509,7 +509,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -522,7 +522,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -540,7 +540,7 @@
         "Uppercut"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -553,7 +553,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -565,7 +565,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Taiwan"
@@ -577,7 +577,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -591,7 +591,7 @@
         "INTZ"
       ],
       "Titulos": 4,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -604,7 +604,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -616,7 +616,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -628,7 +628,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Coreia"
@@ -644,7 +644,7 @@
         "INTZ"
       ],
       "Titulos": 2,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "TIER 2",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -660,7 +660,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 6,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 33,
       "nacionalidade": "Brasil"
@@ -672,7 +672,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Coreia"
@@ -684,7 +684,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Coreia"
@@ -697,7 +697,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -709,7 +709,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -721,7 +721,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -733,7 +733,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Chile"
@@ -745,7 +745,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -757,7 +757,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Chile"
@@ -769,7 +769,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Argentina"
@@ -784,7 +784,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -796,7 +796,7 @@
         "Isurus Estral"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Coreia"
@@ -808,7 +808,7 @@
         "Isurus Estral"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Argentina"
@@ -821,7 +821,7 @@
         "Isurus Estral"
       ],
       "Titulos": 1,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 23,
       "nacionalidade": "Coreia"
@@ -833,7 +833,7 @@
         "Isurus Estral"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Argentina"
@@ -846,7 +846,7 @@
         "Isurus Estral"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 23,
       "nacionalidade": "Argentina"
@@ -861,7 +861,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -877,7 +877,7 @@
         "Cruzeiro"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -889,7 +889,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -901,7 +901,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -914,7 +914,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 18,
       "nacionalidade": "Brasil"
@@ -926,7 +926,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 17,
       "nacionalidade": "Brasil"
@@ -939,7 +939,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -956,7 +956,7 @@
         "G3X"
       ],
       "Titulos": 2,
-      "Position": "TOP",
+      "Position": ["TOP","JUNGLE","MID"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -969,7 +969,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "TIER 2",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -982,7 +982,7 @@
         "LOS,Miners"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "TIER 2",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -996,7 +996,7 @@
         "Rensga"
       ],
       "Titulos": 4,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -1014,7 +1014,7 @@
         "Kabum"
       ],
       "Titulos": 4,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -1026,7 +1026,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "França"
@@ -1038,7 +1038,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1050,7 +1050,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Suécia"
@@ -1062,7 +1062,7 @@
         "Isurus Estral"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Argentina"
@@ -1074,7 +1074,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -1087,7 +1087,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -1101,7 +1101,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1113,7 +1113,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
@@ -1125,7 +1125,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -1141,7 +1141,7 @@
         "Tshow"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1153,7 +1153,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -1165,7 +1165,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -1178,7 +1178,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -1190,7 +1190,7 @@
         "Liberty"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -1202,7 +1202,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Coreia"
@@ -1215,7 +1215,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1227,7 +1227,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
@@ -1245,7 +1245,7 @@
         "ProGaming"
       ],
       "Titulos": 2,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE","SUP","TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1258,7 +1258,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -1270,7 +1270,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "México"
@@ -1287,7 +1287,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1300,7 +1300,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Coreia"
@@ -1313,7 +1313,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "TIER 2",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1328,7 +1328,7 @@
         "Big Gods"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -1341,7 +1341,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "TIER 2",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -1354,7 +1354,7 @@
         "Miners"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Brasil"
@@ -1367,7 +1367,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1380,7 +1380,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -1392,7 +1392,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Coreia"
@@ -1404,7 +1404,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -1420,7 +1420,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1435,7 +1435,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 3,
-      "Position": "SUP",
+      "Position": ["SUP","JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1448,7 +1448,7 @@
         "Flamengo"
       ],
       "Titulos": 1,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -1463,7 +1463,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -1475,7 +1475,7 @@
         "Miners"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
@@ -1490,7 +1490,7 @@
         "Ilha da Macacada"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1502,7 +1502,7 @@
         "Miners"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Coreia"
@@ -1514,7 +1514,7 @@
         "Isurus Estral"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 19,
       "nacionalidade": "Argentina"
@@ -1526,7 +1526,7 @@
         "Miners"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Coreia"
@@ -1539,7 +1539,7 @@
         "Miners"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "TIER 2",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -1557,7 +1557,7 @@
         "Kabum"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE","ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1573,7 +1573,7 @@
         "Santos"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "TIER 2",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1588,7 +1588,7 @@
         "OPK"
       ],
       "Titulos": 1,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1601,7 +1601,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Brasil"
@@ -1613,7 +1613,7 @@
         "Miners"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1625,7 +1625,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1640,7 +1640,7 @@
         "Santos"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -1655,7 +1655,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -1667,7 +1667,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 25,
       "nacionalidade": "Argentina"
@@ -1679,7 +1679,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Coreia"
@@ -1691,7 +1691,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -1703,7 +1703,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Rússia"
@@ -1720,7 +1720,7 @@
         "G3X"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1732,7 +1732,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -1746,7 +1746,7 @@
         "Brave"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -1759,7 +1759,7 @@
         "Cruzeiro"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Portugal"
@@ -1772,7 +1772,7 @@
         "Flamengo"
       ],
       "Titulos": 2,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -1784,7 +1784,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1798,7 +1798,7 @@
         "INTZ"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -1810,7 +1810,7 @@
         "FURIA"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Argentina"
@@ -1822,7 +1822,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Alemanha"
@@ -1838,7 +1838,7 @@
         "Kabum"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -1851,7 +1851,7 @@
         "Uppercut"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Portugal"
@@ -1863,7 +1863,7 @@
         "INTZ"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -1878,7 +1878,7 @@
         "INTZ"
       ],
       "Titulos": 3,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -1893,7 +1893,7 @@
         "CNB"
       ],
       "Titulos": 3,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1908,7 +1908,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP","ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -1922,7 +1922,7 @@
         "OPK"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1934,7 +1934,7 @@
         "Santos"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -1947,7 +1947,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -1959,7 +1959,7 @@
         "Santos"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -1973,7 +1973,7 @@
         "Brave"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -1985,7 +1985,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -2000,7 +2000,7 @@
         "Brave"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -2012,7 +2012,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Coreia"
@@ -2026,7 +2026,7 @@
         "Ilha da Macacada"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2038,7 +2038,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "China"
@@ -2050,7 +2050,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -2062,7 +2062,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Coreia"
@@ -2074,7 +2074,7 @@
         "Prodigy Esports"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Chile"
@@ -2086,7 +2086,7 @@
         "Redemption"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2102,7 +2102,7 @@
         "OPK"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -2116,7 +2116,7 @@
         "INTZ"
       ],
       "Titulos": 2,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -2128,7 +2128,7 @@
         "Uppercut"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Portugal"
@@ -2140,7 +2140,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -2152,7 +2152,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -2164,7 +2164,7 @@
         "Flamengo"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Coreia"
@@ -2178,7 +2178,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -2191,7 +2191,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Argentina"
@@ -2203,7 +2203,7 @@
         "Team oNe"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Serbia"
@@ -2215,7 +2215,7 @@
         "Team oNe"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Serbia"
@@ -2229,7 +2229,7 @@
         "OPK"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -2242,7 +2242,7 @@
         "Brave"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -2256,7 +2256,7 @@
         "Red Canids"
       ],
       "Titulos": 1,
-      "Position": "MID",
+      "Position": ["MID","ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2271,7 +2271,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID","TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -2284,7 +2284,7 @@
         "G3X"
       ],
       "Titulos": 2,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Brasil"
@@ -2297,7 +2297,7 @@
         "JAYOB"
       ],
       "Titulos": 2,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -2309,7 +2309,7 @@
         "ProGaming"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 25,
       "nacionalidade": "Brasil"
@@ -2324,7 +2324,7 @@
         "Nex Impetus"
       ],
       "Titulos": 1,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2336,7 +2336,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Coreia"
@@ -2348,7 +2348,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Coreia"
@@ -2361,7 +2361,7 @@
         "INTZ"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -2376,7 +2376,7 @@
         "vTi Nox"
       ],
       "Titulos": 1,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2390,7 +2390,7 @@
         "INTZ"
       ],
       "Titulos": 4,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -2402,7 +2402,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 19,
       "nacionalidade": "Brasil"
@@ -2416,7 +2416,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2429,7 +2429,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2441,7 +2441,7 @@
         "Flamengo"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Coreia"
@@ -2457,7 +2457,7 @@
         "AWP"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2470,7 +2470,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Coreia"
@@ -2484,7 +2484,7 @@
         "CNB"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2498,7 +2498,7 @@
         "ProGaming"
       ],
       "Titulos": 1,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
@@ -2510,7 +2510,7 @@
         "Team oNe"
       ],
       "Titulos": 1,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -2523,7 +2523,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Coreia"
@@ -2537,7 +2537,7 @@
         "JAYOB"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2551,7 +2551,7 @@
         "OPK"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 27,
       "nacionalidade": "Brasil"
@@ -2563,7 +2563,7 @@
         "Pain"
       ],
       "Titulos": 2,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Brasil"
@@ -2575,7 +2575,7 @@
         "Brave"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -2588,7 +2588,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2602,7 +2602,7 @@
         "vTi Iginis"
       ],
       "Titulos": 3,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -2614,7 +2614,7 @@
         "Pain"
       ],
       "Titulos": 2,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -2627,7 +2627,7 @@
         "Pain"
       ],
       "Titulos": 2,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 34,
       "nacionalidade": "França"
@@ -2641,7 +2641,7 @@
         "CNB"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 33,
       "nacionalidade": "Brasil"
@@ -2655,7 +2655,7 @@
         "JAYOB"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2669,7 +2669,7 @@
         "vTi Iginis"
       ],
       "Titulos": 1,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2684,7 +2684,7 @@
         "vTi Iginis"
       ],
       "Titulos": 1,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 35,
       "nacionalidade": "Brasil"
@@ -2699,7 +2699,7 @@
         "vTi Nox"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 33,
       "nacionalidade": "Brasil"
@@ -2711,7 +2711,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2723,7 +2723,7 @@
         "Big Gods"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Chile"
@@ -2736,7 +2736,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2750,7 +2750,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Brasil"
@@ -2764,7 +2764,7 @@
         "Team United"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 35,
       "nacionalidade": "Brasil"
@@ -2777,7 +2777,7 @@
         "CNB"
       ],
       "Titulos": 1,
-      "Position": "MID",
+      "Position": ["MID","JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2789,7 +2789,7 @@
         "G3X"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2801,7 +2801,7 @@
         "G3X"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2816,7 +2816,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2829,7 +2829,7 @@
         "Pain"
       ],
       "Titulos": 1,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2841,7 +2841,7 @@
         "Kabum"
       ],
       "Titulos": 1,
-      "Position": "SUP",
+      "Position": ["SUP","ADC","JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2853,7 +2853,7 @@
         "Dexterity"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2865,7 +2865,7 @@
         "Dexterity"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2877,7 +2877,7 @@
         "JAYOB"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 33,
       "nacionalidade": "Brasil"
@@ -2890,7 +2890,7 @@
         "AWP"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Brasil"
@@ -2902,7 +2902,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 29,
       "nacionalidade": "Coreia"
@@ -2914,7 +2914,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Coreia"
@@ -2926,7 +2926,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -2938,7 +2938,7 @@
         "vTi Iginis"
       ],
       "Titulos": 1,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Brasil"
@@ -2950,7 +2950,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2962,7 +2962,7 @@
         "Insight Esports"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Brasil"
@@ -2974,7 +2974,7 @@
         "INTZ"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 31,
       "nacionalidade": "Brasil"
@@ -2987,7 +2987,7 @@
         "AWP"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -2999,7 +2999,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -3011,7 +3011,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Coreia"
@@ -3025,7 +3025,7 @@
         "vTi Iginis"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 32,
       "nacionalidade": "Brasil"
@@ -3039,7 +3039,7 @@
         "vTi Iginis"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 30,
       "nacionalidade": "Coreia"
@@ -3051,7 +3051,7 @@
         "Pain"
       ],
       "Titulos": 1,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -3064,7 +3064,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
@@ -3076,7 +3076,7 @@
         "Pain"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 21,
       "nacionalidade": "Coreia"
@@ -3088,7 +3088,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Peru"
@@ -3103,7 +3103,7 @@
         "Redemption"
       ],
       "Titulos": 1,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -3115,7 +3115,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -3127,7 +3127,7 @@
         "Dexterity"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -3139,7 +3139,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -3151,7 +3151,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 28,
       "nacionalidade": "Brasil"
@@ -3163,7 +3163,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -3175,7 +3175,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 19,
       "nacionalidade": "Argentina"
@@ -3187,7 +3187,7 @@
         "Red Canids"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 20,
       "nacionalidade": "Brasil"
@@ -3199,7 +3199,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 18,
       "nacionalidade": "United States"
@@ -3211,7 +3211,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 23,
       "nacionalidade": "Coreia"
@@ -3223,7 +3223,7 @@
         "CNB"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -3235,7 +3235,7 @@
         "Vivo Keyd"
       ],
       "Titulos": 0,
-      "Position": "SUP",
+      "Position": ["SUP"],
       "Current": "ATUANDO",
       "idade": 29,
       "nacionalidade": "Hong Kong"
@@ -3247,7 +3247,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
@@ -3259,7 +3259,7 @@
         "Fluxo"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 25,
       "nacionalidade": "Coreia"
@@ -3271,7 +3271,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 18,
       "nacionalidade": "Colombia"
@@ -3283,7 +3283,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 18,
       "nacionalidade": "Peru"
@@ -3295,7 +3295,7 @@
         "Leviatan"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 26,
       "nacionalidade": "Argentina"
@@ -3307,7 +3307,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "JUNGLE",
+      "Position": ["JUNGLE"],
       "Current": "ATUANDO",
       "idade": 23,
       "nacionalidade": "Coreia"
@@ -3319,7 +3319,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Coreia"
@@ -3331,7 +3331,7 @@
         "LOUD"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Coreia"
@@ -3343,7 +3343,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "TOP",
+      "Position": ["TOP"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Coreia"
@@ -3355,7 +3355,7 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "MID",
+      "Position": ["MID"],
       "Current": "ATUANDO",
       "idade": 22,
       "nacionalidade": "Coreia"
@@ -3367,26 +3367,12 @@
         "LOS"
       ],
       "Titulos": 0,
-      "Position": "ADC",
+      "Position": ["ADC"],
       "Current": "ATUANDO",
       "idade": 17,
       "nacionalidade": "Coreia"
-    },
-    {
-      "id": -100,
-      "name": "esA",
-      "Org": [
-        "Pain",
-        "Flamengo",
-        "Vivo Keyd",
-        "CNB"
-      ],
-      "Titulos": 0,
-      "Position": "ADC",
-      "Current": "NÃO ATUANDO",
-      "idade": 31,
-      "nacionalidade": "Brasil"
     }
+   
   ],
   "falas": [
     {
@@ -3897,7 +3883,18 @@
     },
     {
       "id": 3,
-      "time": "Vivo Keyd",
+      "time": "KaBuM",
+      "ano": 2014,
+      "Split": 1,
+      "TOP": 174,
+      "JUNGLE": 198,
+      "MID": 18,
+      "ADC": 213,
+      "SUP": 212
+    },
+    {
+      "id": 4,
+      "time": "Pain",
       "ano": 2014,
       "Split": 1,
       "TOP": 189,
@@ -3907,7 +3904,7 @@
       "SUP": 227
     },
     {
-      "id": 4,
+      "id": 5,
       "time": "CNB",
       "ano": 2015,
       "Split": 1,
@@ -3918,7 +3915,7 @@
       "SUP": 106
     },
     {
-      "id": 5,
+      "id": 6,
       "time": "INTZ",
       "ano": 2015,
       "Split": 1,
@@ -3929,26 +3926,15 @@
       "SUP": 107
     },
     {
-      "id": 6,
-      "time": "PAIN",
-      "ano": 2015,
-      "Split": 1,
-      "TOP": 202,
-      "JUNGLE": 192,
-      "MID": 196,
-      "ADC": 48,
-      "SUP": 197
-    },
-    {
       "id": 7,
-      "time": "Vivo Keyd",
+      "time": "JAYOB",
       "ano": 2015,
       "Split": 1,
-      "TOP": 195,
-      "JUNGLE": 218,
-      "MID": 170,
-      "ADC": 219,
-      "SUP": 178
+      "TOP": 211,
+      "JUNGLE": 216,
+      "MID": 217,
+      "ADC": 199,
+      "SUP": 172
     },
     {
       "id": 8,
@@ -3963,6 +3949,40 @@
     },
     {
       "id": 9,
+      "time":"Kabum Orange" ,
+      "ano": 2015,
+      "Split": 1,
+      "TOP": 174,
+      "JUNGLE": 213,
+      "MID": 18,
+      "ADC": 225,
+      "SUP": 207
+    },
+    {
+      "id": 10,
+      "time": "Pain",
+      "ano": 2015,
+      "Split": 1,
+      "TOP": 202,
+      "JUNGLE": 192,
+      "MID": 196,
+      "ADC": 48,
+      "SUP": 197
+    },
+    {
+      "id": 11,
+      "time": "Vivo Keyd",
+      "ano": 2015,
+      "Split": 1,
+      "TOP": 195,
+      "JUNGLE": 218,
+      "MID": 170,
+      "ADC": 219,
+      "SUP": 178
+    },
+    
+    {
+      "id": 12,
       "time": "CNB",
       "ano": 2015,
       "Split": 2,
@@ -3973,7 +3993,41 @@
       "SUP": 106
     },
     {
-      "id": 10,
+      "id": 13,
+      "time": "G3X",
+      "ano": 2015,
+      "Split": 2,
+      "TOP": 171,
+      "JUNGLE": 209,
+      "MID": 71,
+      "ADC": 190,
+      "SUP": 128
+    },
+    
+    {
+      "id": 14,
+      "time": "INTZ",
+      "ano": 2015,
+      "Split": 2,
+      "TOP": 140,
+      "JUNGLE": 107,
+      "MID": 179,
+      "ADC": 43,
+      "SUP": 201
+    },
+     {
+      "id": 15,
+      "time": "INTZ RED",
+      "ano": 2015,
+      "Split": 2,
+      "TOP": 16,
+      "JUNGLE": 210,
+      "MID": 169,
+      "ADC": 177,
+      "SUP": 207
+    },
+    {
+      "id": 16,
       "time": "Kabum Black",
       "ano": 2015,
       "Split": 2,
@@ -3984,8 +4038,19 @@
       "SUP": 212
     },
     {
-      "id": 11,
-      "time": "PAIN",
+      "id": 17,
+      "time": "Vivo Keyd",
+      "ano": 2015,
+      "Split": 2,
+      "TOP": 202,
+      "JUNGLE": 141,
+      "MID": 170,
+      "ADC": 142,
+      "SUP": 178
+    },
+    {
+      "id": 18,
+      "time": "Pain",
       "ano": 2015,
       "Split": 2,
       "TOP": 195,
@@ -3995,18 +4060,7 @@
       "SUP": 197
     },
     {
-      "id": 12,
-      "time": "Vivo Keyd",
-      "ano": 2015,
-      "Split": 2,
-      "TOP": 202,
-      "JUNGLE": 141,
-      "MID": 170,
-      "ADC": -100,
-      "SUP": 178
-    },
-    {
-      "id": 13,
+      "id": 19,
       "time": "CNB",
       "ano": 2016,
       "Split": 1,
@@ -4017,87 +4071,21 @@
       "SUP": 106
     },
     {
-      "id": 14,
-      "time": "INTZ",
-      "ano": 2016,
-      "Split": 1,
-      "TOP": 140,
-      "JUNGLE": 141,
-      "MID": 179,
-      "ADC": 43,
-      "SUP": 107
-    },
-    {
-      "id": 15,
-      "time": "kabum",
-      "ano": 2016,
-      "Split": 1,
-      "TOP": 174,
-      "JUNGLE": 116,
-      "MID": 18,
-      "ADC": 109,
-      "SUP": 137
-    },
-    {
-      "id": 16,
-      "time": "Vivo Keyd",
-      "ano": 2016,
-      "Split": 1,
-      "TOP": 16,
-      "JUNGLE": 184,
-      "MID": 170,
-      "ADC": -100,
-      "SUP": 182
-    },
-    {
-      "id": 17,
-      "time": "Operation Kino",
-      "ano": 2016,
-      "Split": 1,
-      "TOP": 167,
-      "JUNGLE": 157,
-      "MID": 118,
-      "ADC": 199,
-      "SUP": 128
-    },
-    {
-      "id": 18,
-      "time": "PAIN",
-      "ano": 2016,
-      "Split": 1,
-      "TOP": 195,
-      "JUNGLE": 192,
-      "MID": 196,
-      "ADC": 48,
-      "SUP": 203
-    },
-    {
-      "id": 19,
-      "time": "Red Canids",
-      "ano": 2016,
-      "Split": 1,
-      "TOP": 123,
-      "JUNGLE": 237,
-      "MID": 169,
-      "ADC": 177,
-      "SUP": 207
-    },
-    {
       "id": 20,
-      "time": "CNB",
+      "time": "G3X",
       "ano": 2016,
-      "Split": 2,
-      "TOP": 174,
-      "JUNGLE": 116,
-      "MID": 18,
-      "ADC": 133,
-      "SUP": 106
+      "Split": 1,
+      "TOP": 171,
+      "JUNGLE": 200,
+      "MID": 71,
+      "ADC": 206,
+      "SUP": 201
     },
     {
       "id": 21,
       "time": "INTZ",
       "ano": 2016,
-      "Split": 2,
+      "Split": 1,
       "TOP": 140,
       "JUNGLE": 141,
       "MID": 179,
@@ -4108,6 +4096,94 @@
       "id": 22,
       "time": "kabum",
       "ano": 2016,
+      "Split": 1,
+      "TOP": 174,
+      "JUNGLE": 116,
+      "MID": 18,
+      "ADC": 109,
+      "SUP": 137
+    },
+    {
+      "id": 23,
+      "time": "Vivo Keyd",
+      "ano": 2016,
+      "Split": 1,
+      "TOP": 16,
+      "JUNGLE": 184,
+      "MID": 170,
+      "ADC": 142,
+      "SUP": 182
+    },
+    {
+      "id": 24,
+      "time": "Operation Kino",
+      "ano": 2016,
+      "Split": 1,
+      "TOP": 167,
+      "JUNGLE": 157,
+      "MID": 118,
+      "ADC": 199,
+      "SUP": 128
+    },
+    {
+      "id": 25,
+      "time": "Pain",
+      "ano": 2016,
+      "Split": 1,
+      "TOP": 195,
+      "JUNGLE": 192,
+      "MID": 196,
+      "ADC": 48,
+      "SUP": 203
+    },
+    {
+      "id": 26,
+      "time": "Red Canids",
+      "ano": 2016,
+      "Split": 1,
+      "TOP": 123,
+      "JUNGLE": 238,
+      "MID": 169,
+      "ADC": 177,
+      "SUP": 207
+    },
+    {
+      "id": 27,
+      "time": "Big Gods",
+      "ano": 2016,
+      "Split": 2,
+      "TOP": 93,
+      "JUNGLE": 204,
+      "MID": 181,
+      "ADC": 99,
+      "SUP": 75
+    },
+    {
+      "id": 28,
+      "time": "CNB",
+      "ano": 2016,
+      "Split": 2,
+      "TOP": 174,
+      "JUNGLE": 116,
+      "MID": 18,
+      "ADC": 133,
+      "SUP": 106
+    },
+    {
+      "id": 29,
+      "time": "INTZ",
+      "ano": 2016,
+      "Split": 2,
+      "TOP": 140,
+      "JUNGLE": 141,
+      "MID": 179,
+      "ADC": 43,
+      "SUP": 107
+    },
+    {
+      "id": 30,
+      "time": "kabum",
+      "ano": 2016,
       "Split": 2,
       "TOP": 171,
       "JUNGLE": 198,
@@ -4116,18 +4192,18 @@
       "SUP": 205
     },
     {
-      "id": 23,
+      "id": 31,
       "time": "Vivo Keyd",
       "ano": 2016,
       "Split": 2,
       "TOP": 16,
       "JUNGLE": 186,
       "MID": 170,
-      "ADC": -100,
+      "ADC": 142,
       "SUP": 182
     },
     {
-      "id": 24,
+      "id": 32,
       "time": "Operation Kino",
       "ano": 2016,
       "Split": 2,
@@ -4138,7 +4214,29 @@
       "SUP": 128
     },
     {
-      "id": 25,
+      "id": 33,
+      "time": "Pain",
+      "ano": 2016,
+      "Split": 2,
+      "TOP": 195,
+      "JUNGLE": 192,
+      "MID": 196,
+      "ADC": 71,
+      "SUP": 137
+    },
+    {
+      "id": 34,
+      "time": "RED Canids",
+      "ano": 2016,
+      "Split": 2,
+      "TOP": 123,
+      "JUNGLE": 208,
+      "MID": 169,
+      "ADC": 177,
+      "SUP": 197
+    },
+    {
+      "id": 35,
       "time": "CNB",
       "ano": 2017,
       "Split": 1,
@@ -4149,7 +4247,7 @@
       "SUP": 106
     },
     {
-      "id": 26,
+      "id": 36,
       "time": "INTZ",
       "ano": 2017,
       "Split": 1,
@@ -4160,7 +4258,7 @@
       "SUP": 107
     },
     {
-      "id": 27,
+      "id": 37,
       "time": "Kabum",
       "ano": 2017,
       "Split": 1,
@@ -4171,18 +4269,18 @@
       "SUP": 172
     },
     {
-      "id": 28,
+      "id": 38,
       "time": "Vivo Keyd",
       "ano": 2017,
       "Split": 1,
       "TOP": 140,
       "JUNGLE": 141,
       "MID": 170,
-      "ADC": -100,
+      "ADC": 142,
       "SUP": 137
     },
     {
-      "id": 29,
+      "id": 39,
       "time": "Operation Kino",
       "ano": 2017,
       "Split": 1,
@@ -4193,8 +4291,8 @@
       "SUP": 191
     },
     {
-      "id": 30,
-      "time": "PAIN",
+      "id": 40,
+      "time": "Pain",
       "ano": 2017,
       "Split": 1,
       "TOP": 195,
@@ -4204,7 +4302,7 @@
       "SUP": 178
     },
     {
-      "id": 31,
+      "id": 41,
       "time": "Red Canids",
       "ano": 2017,
       "Split": 1,
@@ -4215,7 +4313,18 @@
       "SUP": 197
     },
     {
-      "id": 32,
+      "id": 42,
+      "time": "Remo Brave",
+      "ano": 2017,
+      "Split": 1,
+      "TOP": 193,
+      "JUNGLE": 168,
+      "MID": 130,
+      "ADC": 147,
+      "SUP": 149
+    },
+    {
+      "id": 43,
       "time": "CNB",
       "ano": 2017,
       "Split": 2,
@@ -4226,7 +4335,7 @@
       "SUP": 106
     },
     {
-      "id": 33,
+      "id": 44,
       "time": "INTZ",
       "ano": 2017,
       "Split": 2,
@@ -4237,18 +4346,29 @@
       "SUP": 107
     },
     {
-      "id": 34,
+      "id": 45,
       "time": "Vivo Keyd",
       "ano": 2017,
       "Split": 2,
       "TOP": 140,
       "JUNGLE": 141,
       "MID": 170,
-      "ADC": -100,
+      "ADC": 142,
       "SUP": 137
     },
     {
-      "id": 35,
+      "id": 46,
+      "time": "Pain",
+      "ano": 2017,
+      "Split": 2,
+      "TOP": 195,
+      "JUNGLE": 71,
+      "MID": 196,
+      "ADC": 109,
+      "SUP": 178
+    },
+    {
+      "id": 47,
       "time": "ProGaming",
       "ano": 2017,
       "Split": 2,
@@ -4259,7 +4379,7 @@
       "SUP": 128
     },
     {
-      "id": 36,
+      "id": 48,
       "time": "Red Canids",
       "ano": 2017,
       "Split": 2,
@@ -4270,7 +4390,7 @@
       "SUP": 197
     },
     {
-      "id": 37,
+      "id": 49,
       "time": "Team oNe",
       "ano": 2017,
       "Split": 2,
@@ -4281,18 +4401,18 @@
       "SUP": 75
     },
     {
-      "id": 38,
+      "id": 50,
       "time": "CNB",
       "ano": 2018,
       "Split": 1,
       "TOP": 16,
-      "JUNGLE": 36,
+      "JUNGLE": 184,
       "MID": 181,
       "ADC": 133,
       "SUP": 182
     },
     {
-      "id": 39,
+      "id": 51,
       "time": "INTZ",
       "ano": 2018,
       "Split": 1,
@@ -4303,7 +4423,7 @@
       "SUP": 137
     },
     {
-      "id": 40,
+      "id": 52,
       "time": "KaBuM",
       "ano": 2018,
       "Split": 1,
@@ -4314,7 +4434,18 @@
       "SUP": 172
     },
     {
-      "id": 41,
+      "id": 53,
+      "time": "Pain",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 170,
+      "JUNGLE": 71,
+      "MID": 18,
+      "ADC": 109,
+      "SUP": 178
+    },
+    {
+      "id": 54,
       "time": "ProGaming",
       "ano": 2018,
       "Split": 1,
@@ -4325,7 +4456,7 @@
       "SUP": 128
     },
     {
-      "id": 42,
+      "id": 55,
       "time": "RED Canids",
       "ano": 2018,
       "Split": 1,
@@ -4336,7 +4467,18 @@
       "SUP": 149
     },
     {
-      "id": 43,
+      "id": 56,
+      "time": "Team oNe",
+      "ano": 2018,
+      "Split": 1,
+      "TOP": 187,
+      "JUNGLE": 168,
+      "MID": 169,
+      "ADC": 189,
+      "SUP": 75
+    },
+    {
+      "id": 57,
       "time": "Vivo Keyd",
       "ano": 2018,
       "Split": 1,
@@ -4346,8 +4488,19 @@
       "ADC": 43,
       "SUP": 107
     },
+     {
+      "id": 58,
+      "time": "CNB",
+      "ano": 2018,
+      "Split": 2,
+      "TOP": 16,
+      "JUNGLE": 184,
+      "MID": 181,
+      "ADC": 169,
+      "SUP": 182
+    },
     {
-      "id": 44,
+      "id": 59,
       "time": "Flamengo",
       "ano": 2018,
       "Split": 2,
@@ -4358,7 +4511,7 @@
       "SUP": 142
     },
     {
-      "id": 45,
+      "id": 60,
       "time": "Ilha da Macacada",
       "ano": 2018,
       "Split": 2,
@@ -4369,7 +4522,7 @@
       "SUP": 149
     },
     {
-      "id": 46,
+      "id": 61,
       "time": "INTZ",
       "ano": 2018,
       "Split": 2,
@@ -4380,7 +4533,7 @@
       "SUP": 75
     },
     {
-      "id": 47,
+      "id": 62,
       "time": "KaBuM",
       "ano": 2018,
       "Split": 2,
@@ -4391,7 +4544,7 @@
       "SUP": 172
     },
     {
-      "id": 48,
+      "id": 63,
       "time": "RED Canids",
       "ano": 2018,
       "Split": 2,
@@ -4402,7 +4555,7 @@
       "SUP": 178
     },
     {
-      "id": 49,
+      "id": 64,
       "time": "Vivo Keyd",
       "ano": 2018,
       "Split": 2,
@@ -4413,7 +4566,7 @@
       "SUP": 107
     },
     {
-      "id": 50,
+      "id": 65,
       "time": "CNB",
       "ano": 2019,
       "Split": 1,
@@ -4424,7 +4577,7 @@
       "SUP": 122
     },
     {
-      "id": 51,
+      "id": 66,
       "time": "Flamengo",
       "ano": 2019,
       "Split": 1,
@@ -4435,7 +4588,18 @@
       "SUP": 132
     },
     {
-      "id": 52,
+      "id": 67,
+      "time": "INTZ",
+      "ano": 2019,
+      "Split": 1,
+      "TOP": 71,
+      "JUNGLE": 158,
+      "MID": 47,
+      "ADC": 139,
+      "SUP": 75
+    },
+    {
+      "id": 68,
       "time": "KaBuM",
       "ano": 2019,
       "Split": 1,
@@ -4446,7 +4610,7 @@
       "SUP": 172
     },
     {
-      "id": 53,
+      "id": 69,
       "time": "Redemption",
       "ano": 2019,
       "Split": 1,
@@ -4457,7 +4621,7 @@
       "SUP": 34
     },
     {
-      "id": 54,
+      "id": 70,
       "time": "Uppercut",
       "ano": 2019,
       "Split": 1,
@@ -4468,7 +4632,18 @@
       "SUP": 39
     },
     {
-      "id": 55,
+      "id": 71,
+      "time": "CNB",
+      "ano": 2019,
+      "Split": 2,
+      "TOP":160 ,
+      "JUNGLE": 161,
+      "MID": 244,
+      "ADC": 133,
+      "SUP": 122
+    },
+    {
+      "id": 72,
       "time": "Flamengo",
       "ano": 2019,
       "Split": 2,
@@ -4478,8 +4653,9 @@
       "ADC": 48,
       "SUP": 132
     },
+    
     {
-      "id": 56,
+      "id": 73,
       "time": "INTZ",
       "ano": 2019,
       "Split": 2,
@@ -4490,7 +4666,7 @@
       "SUP": 75
     },
     {
-      "id": 57,
+      "id": 74,
       "time": "KaBuM",
       "ano": 2019,
       "Split": 2,
@@ -4501,8 +4677,8 @@
       "SUP": 34
     },
     {
-      "id": 58,
-      "time": "paiN",
+      "id": 75,
+      "time": "Pain",
       "ano": 2019,
       "Split": 2,
       "TOP": 140,
@@ -4510,6 +4686,39 @@
       "MID": 18,
       "ADC": 109,
       "SUP": 142
+    },
+    {
+      "id": 76,
+      "time": "Redemption",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 156,
+      "JUNGLE": 157,
+      "MID": 85,
+      "ADC": 164,
+      "SUP": 107
+    },
+    {
+      "id": 77,
+      "time": "Team oNe",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 167,
+      "JUNGLE": 165,
+      "MID": 170,
+      "ADC": 99,
+      "SUP": 25
+    },
+    {
+      "id": 78,
+      "time": "Uppercut",
+      "ano": 2019,
+      "Split": 2,
+      "TOP": 151,
+      "JUNGLE": 159,
+      "MID": 111,
+      "ADC": 138,
+      "SUP": 39
     }
   ]
 }
