@@ -437,7 +437,7 @@
         "Rensga"
       ],
       "Titulos": 0,
-      "Position": ["MID"],
+      "Position": ["MID","TOP"],
       "Current": "ATUANDO",
       "idade": 24,
       "nacionalidade": "Brasil"
@@ -4719,6 +4719,393 @@
       "MID": 111,
       "ADC": 138,
       "SUP": 39
+    },
+    {
+      "id": 79,
+      "time": "Flamengo",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 150,
+      "JUNGLE": 93,
+      "MID": 118,
+      "ADC": 134,
+      "SUP": 25
+    },
+    {
+      "id": 80,
+      "time": "Furia",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 119,
+      "JUNGLE": 116,
+      "MID": 111,
+      "ADC": 102,
+      "SUP": 39
+    },
+    {
+      "id": 81,
+      "time": "INTZ",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 152,
+      "JUNGLE": 158,
+      "MID": 32,
+      "ADC": 43,
+      "SUP": 75
+    },
+    {
+      "id": 82,
+      "time": "Kabum",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 108,
+      "JUNGLE": 17,
+      "MID": 23,
+      "ADC": 234,
+      "SUP": 34
+    },
+    {
+      "id": 83,
+      "time": "Pain",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 140,
+      "JUNGLE": 153,
+      "MID": 18,
+      "ADC": 48,
+      "SUP": 154
+    },
+    {
+      "id": 84,
+      "time": "Prodigy",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 11,
+      "JUNGLE": 36,
+      "MID": 155,
+      "ADC": 143,
+      "SUP": 106
+    },
+    {
+      "id": 85,
+      "time": "Vivo Keyd",
+      "ano": 2020,
+      "Split": 1,
+      "TOP": 16,
+      "JUNGLE": 95,
+      "MID": 82,
+      "ADC": 148,
+      "SUP": 128
+    },
+    {
+      "id": 86,
+      "time": "Flamengo",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 1,
+      "JUNGLE": 93,
+      "MID": 118,
+      "ADC": 94,
+      "SUP": 132
+    },
+    {
+      "id": 87,
+      "time": "Furia",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 119,
+      "JUNGLE": 65,
+      "MID": 111,
+      "ADC": 138,
+      "SUP": 39
+    },
+    {
+      "id": 88,
+      "time": "INTZ",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 71,
+      "JUNGLE": 158,
+      "MID": 47,
+      "ADC": 43,
+      "SUP": 75
+    },
+    {
+      "id": 89,
+      "time": "Kabum",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 140,
+      "JUNGLE": 141,
+      "MID":23 ,
+      "ADC":234 ,
+      "SUP": 34
+    },
+    {
+      "id": 90,
+      "time": "Pain",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 16,
+      "JUNGLE": 7,
+      "MID": 18,
+      "ADC": 48,
+      "SUP": 142
+    },
+    {
+      "id": 91,
+      "time": "Prodigy",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 11,
+      "JUNGLE": 36,
+      "MID": 8,
+      "ADC": 143,
+      "SUP": 106
+    },
+    {
+      "id": 92,
+      "time": "Santos",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 144,
+      "JUNGLE":145 ,
+      "MID": 146,
+      "ADC": 147,
+      "SUP": 122
     }
+    ,
+    {
+      "id": 93,
+      "time": "Vivo Keyd",
+      "ano": 2020,
+      "Split": 2,
+      "TOP": 26,
+      "JUNGLE": 116,
+      "MID": 82,
+      "ADC": 120,
+      "SUP": 128
+    },
+    {
+      "id": 94,
+      "time": "Cruzeiro",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 131,
+      "JUNGLE": 65,
+      "MID": 82,
+      "ADC": 133,
+      "SUP": 122
+    },
+    {
+      "id": 95,
+      "time": "Flamengo",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 108,
+      "JUNGLE": 93,
+      "MID": 23,
+      "ADC": 134,
+      "SUP": 75
+    },
+    {
+      "id": 96,
+      "time": "Furia",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 119,
+      "JUNGLE": 135,
+      "MID": 111,
+      "ADC": 102,
+      "SUP": 39
+    },
+    {
+      "id": 97,
+      "time": "INTZ",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 1,
+      "JUNGLE": 141,
+      "MID": 47,
+      "ADC": 43,
+      "SUP": 149
+    },
+    {
+      "id": 98,
+      "time": "KaBuM",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 6,
+      "JUNGLE": 129,
+      "MID": 130,
+      "ADC": 121,
+      "SUP": 128
+    },
+    {
+      "id": 99,
+      "time": "LOUD",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 71,
+      "JUNGLE": 117,
+      "MID": 8,
+      "ADC": 234,
+      "SUP": 34
+    },
+    {
+      "id": 100,
+      "time": "Pain",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 16,
+      "JUNGLE": 7,
+      "MID": 18,
+      "ADC": 48,
+      "SUP": 132
+    },
+    {
+      "id": 101,
+      "time": "RED Canids",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 21,
+      "JUNGLE": 12,
+      "MID": 88,
+      "ADC": 9,
+      "SUP": 25
+    },
+    {
+      "id": 102,
+      "time": "Rensga",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 64,
+      "JUNGLE": 235,
+      "MID": 250,
+      "ADC": 96,
+      "SUP": 137
+    },
+    {
+      "id": 103,
+      "time": "Vorax",
+      "ano": 2021,
+      "Split": 1,
+      "TOP": 11,
+      "JUNGLE":36 ,
+      "MID": 85,
+      "ADC": 109,
+      "SUP": 106
+    },
+    {
+      "id": 104,
+      "time": "Flamengo",
+      "ano": 2021,
+      "Split": 2,
+      "TOP":108,
+      "JUNGLE":93,
+      "MID": 23,
+      "ADC": 33,
+      "SUP": 75
+    },
+    {
+      "id": 105,
+      "time": "Furia",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 119,
+      "JUNGLE":127,
+      "MID": 111,
+      "ADC":102 ,
+      "SUP": 107
+    },
+    {
+      "id": 106,
+      "time": "INTZ",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 32,
+      "JUNGLE":65,
+      "MID": 47,
+      "ADC": 43,
+      "SUP": 128
+    },
+    {
+      "id": 107,
+      "time": "KaBuM",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 6,
+      "JUNGLE":129,
+      "MID": 130,
+      "ADC": 121,
+      "SUP": 98
+    },
+    {
+      "id": 108,
+      "time": "LOUD",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 71,
+      "JUNGLE":117,
+      "MID": 8,
+      "ADC": 234,
+      "SUP": 34
+    },
+    {
+      "id": 109,
+      "time": "Miners",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 131,
+      "JUNGLE":101,
+      "MID": 42,
+      "ADC": 120,
+      "SUP": 122
+    },
+    {
+      "id": 110,
+      "time": "Pain",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 16,
+      "JUNGLE":7,
+      "MID": 18,
+      "ADC": 48,
+      "SUP": 132
+    },
+    {
+      "id": 111,
+      "time": "RED Canids",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 21,
+      "JUNGLE":12,
+      "MID": 13,
+      "ADC": 9,
+      "SUP": 25
+    },
+    {
+      "id": 112,
+      "time": "Rensga",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 64,
+      "JUNGLE":74,
+      "MID": 97,
+      "ADC": 96,
+      "SUP": 39
+    },
+    {
+      "id": 113,
+      "time": "Vorax",
+      "ano": 2021,
+      "Split": 2,
+      "TOP": 11,
+      "JUNGLE":36 ,
+      "MID": 85,
+      "ADC": 109,
+      "SUP": 106
+    }
+    
   ]
 }
