@@ -637,6 +637,7 @@
       "id": 47,
       "name": "Envy",
       "Org": [
+        "LOUD",
         "Flamengo",
         "LOS",
         "Red Canids",
@@ -645,7 +646,7 @@
       ],
       "Titulos": 2,
       "Position": ["MID"],
-      "Current": "TIER 2",
+      "Current": "ATUANDO",
       "idade": 26,
       "nacionalidade": "Brasil"
     },
@@ -3065,7 +3066,7 @@
       ],
       "Titulos": 0,
       "Position": ["MID"],
-      "Current": "ATUANDO",
+      "Current": "NÃO ATUANDO",
       "idade": 22,
       "nacionalidade": "Brasil"
     },
