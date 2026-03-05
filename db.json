@@ -3615,6 +3615,57 @@
       "fala": " \"O pai é quente, até perdendo o pai grita ta? \"",
       "jogador": "Ranger",
       "player_id": 93
+    },
+    {
+      "id": 41,
+      "fala": " \"Grev você não vai para china você vai para casa \"",
+      "jogador": "Croc",
+      "player_id": 74
+    }
+    ,
+    {
+      "id": 42,
+      "fala": " \"Depois tu infarta moleque ninguem liga para essa merda  \"",
+      "jogador": "Drakehero",
+      "player_id": 27
+    },
+    {
+      "id": 43,
+      "fala": " \"ai titan ia me pescar é ?  pegou na vara doidão \"",
+      "jogador": "RedBert",
+      "player_id": 75
+    }
+    ,
+    {
+      "id": 44,
+      "fala": " \"diretamente da LEC rapaziada estão jogando muito jogo um pouco menos\"",
+      "jogador": "Robo",
+      "player_id": 16
+    },
+    {
+      "id": 45,
+      "fala": " \"Guys come to help\"",
+      "jogador": "Titan",
+      "player_id": 9
+    },
+    {
+      "id": 46,
+      "fala": " \"vocês so ganham quando a gente ta tiltado\"",
+      "jogador": "Robo",
+      "player_id": 16
+    }
+    ,
+    {
+      "id": 47,
+      "fala": " \"vocês nunca vão ganhar de mim seus fodidos \"",
+      "jogador": "Disamis",
+      "player_id": 2
+    },
+    {
+      "id": 48,
+      "fala": " \"a tu casa é o krl \"",
+      "jogador": "Titan",
+      "player_id": 9
     }
   ],
   "finais": [
