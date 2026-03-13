@@ -2670,7 +2670,7 @@
         "vTi Iginis"
       ],
       "Titulos": 1,
-      "Position": ["MID"],
+      "Position": ["MID","JUNGLE"],
       "Current": "NÃO ATUANDO",
       "idade": 0,
       "nacionalidade": "Brasil"
@@ -3931,7 +3931,7 @@
       "JUNGLE": 185,
       "MID": 229,
       "ADC": 48,
-      "SUP": 106
+      "SUP": 178
     },
     {
       "id": 3,
