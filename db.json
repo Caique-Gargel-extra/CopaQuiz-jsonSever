@@ -8,7 +8,7 @@
       "clube":"Liverpool",
       "idade":"1992-10-02",
       "altura":193,
-      "perna-boa": "Direita"
+      "pernaboa": "Direita"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "clube":"Fenerbahçe",
       "idade":"1993-08-17",
       "altura":188,
-      "perna-boa": "Esquerda"
+      "pernaboa": "Esquerda"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "clube":"Grêmio",
       "idade":"1987-12-13",
       "altura":189,
-      "perna-boa": "Direita"
+      "pernaboa": "Direita"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "clube":"Flamengo",
       "idade":"1991-01-26",
       "altura":181,
-      "perna-boa": "Esquerda"
+      "pernaboa": "Esquerda"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "clube":"Juventus",
       "idade":"1997-03-18",
       "altura":188,
-      "perna-boa": "Direita"
+      "pernaboa": "Direita"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "clube":"Flamengo",
       "idade":"1991-06-15",
       "altura":184,
-      "perna-boa": "Direita"
+      "pernaboa": "Direita"
     }
     
   ],
