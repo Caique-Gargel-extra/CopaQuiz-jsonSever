@@ -66,6 +66,36 @@
     {}
   ],
   "BrazilPlayers": [
-   {}
+   {
+      "id": 1,
+      "nome":"Neymar",
+      "funcao":"Atacante",
+      "gols": 8,
+      "copas":4,
+      "titulos":0,
+      "altura":175,
+      "pernaboa": "Direita"
+    },
+    {
+      "id": 2,
+      "nome":"Ronaldo Nazário",
+      "funcao":"Atacante",
+      "gols": 15,
+      "copas":4,
+      "titulos":2,
+      "altura":183,
+      "pernaboa": "ambidestro"
+    }
+    ,
+    {
+      "id": 3,
+      "nome":"Pelé",
+      "funcao":"Atacante",
+      "gols": 12,
+      "copas":4,
+      "titulos":3,
+      "altura":173,
+      "pernaboa": "ambidestro"
+    }
   ]
 }
