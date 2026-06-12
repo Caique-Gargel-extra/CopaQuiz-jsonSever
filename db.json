@@ -14944,27 +14944,42 @@
   "Lineups": [
     {
       "id": 1,
-      "pais": "França"
+      "pais": "França",
+      "tipo":"Finalista",
+      "ano":2022
+      
     },
     {
       "id": 2,
-      "pais": "Argentina"
+      "pais": "Argentina",
+      "tipo":"Campeão",
+      "ano":2022
+      
     },
     {
       "id": 3,
-      "pais": "França"
+      "pais": "França",
+      "tipo":"Campeão",
+      "ano":2018
+      
     },
     {
       "id": 4,
-      "pais": "Croácia"
+      "pais": "Croácia",
+      "tipo":"Finalista",
+      "ano":2018
     },
     {
       "id": 5,
-      "pais": "Alemanha"
+      "pais": "Alemanha",
+      "tipo":"Campeão",
+      "ano":2014
     },
     {
       "id": 6,
-      "pais": "Argentina"
+      "pais": "Argentina",
+      "tipo":"Finalista",
+      "ano":2014
     }
   ],
   "LineupsPlayers": [
