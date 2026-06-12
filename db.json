@@ -14945,41 +14945,84 @@
     {
       "id": 1,
       "pais": "França",
-      "tipo":"Finalista",
-      "ano":2022
-      
+      "tipo": "Finalista",
+      "ano": 2022,
+      "players": [
+        {
+          "id": 12,
+          "pos": "GOL"
+        },
+        {
+          "id": 15,
+          "pos": "ZGE"
+        },
+        {
+          "id": 14,
+          "pos": "ZGD"
+        },
+        {
+          "id": 16,
+          "pos": "LE"
+        },
+        {
+          "id": 13,
+          "pos": "LD"
+        },
+        {
+          "id": 19,
+          "pos": "MCE"
+        },
+        {
+          "id": 18,
+          "pos": "MCD"
+        },
+        {
+          "id": 17,
+          "pos": "MEI"
+        },
+        {
+          "id": 22,
+          "pos": "PE"
+        },
+        {
+          "id": 20,
+          "pos": "PD"
+        },
+        {
+          "id": 21,
+          "pos": "ATA"
+        }
+      ]
     },
     {
       "id": 2,
       "pais": "Argentina",
-      "tipo":"Campeão",
-      "ano":2022
-      
+      "tipo": "Campeão",
+      "ano": 2022
     },
     {
       "id": 3,
       "pais": "França",
-      "tipo":"Campeão",
-      "ano":2018
-      
+      "tipo": "Campeão",
+      "ano": 2018
     },
     {
       "id": 4,
       "pais": "Croácia",
-      "tipo":"Finalista",
-      "ano":2018
+      "tipo": "Finalista",
+      "ano": 2018
     },
     {
       "id": 5,
       "pais": "Alemanha",
-      "tipo":"Campeão",
-      "ano":2014
+      "tipo": "Campeão",
+      "ano": 2014
     },
     {
       "id": 6,
       "pais": "Argentina",
-      "tipo":"Finalista",
-      "ano":2014
+      "tipo": "Finalista",
+      "ano": 2014
     }
   ],
   "LineupsPlayers": [
