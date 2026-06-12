@@ -14944,19 +14944,27 @@
   "Lineups": [
     {
       "id": 1,
-      "selecao": "frança",
-      "ano": 2022,
-      "campea": false,
-      "jogadores": [
-        {
-          "id": 1,
-          "nome": "Hugo Lloris",
-          "funcao": "Goleiro",
-          "idade": "1986-12-26",
-          "altura": 188,
-          "camisa": 1
-        }
-      ]
+      "pais": "França"
+    },
+    {
+      "id": 2,
+      "pais": "Argentina"
+    },
+    {
+      "id": 3,
+      "pais": "França"
+    },
+    {
+      "id": 4,
+      "pais": "Croácia"
+    },
+    {
+      "id": 5,
+      "pais": "Alemanha"
+    },
+    {
+      "id": 6,
+      "pais": "Argentina"
     }
   ],
   "LineupsPlayers": [
