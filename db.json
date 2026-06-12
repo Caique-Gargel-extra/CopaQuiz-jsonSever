@@ -14959,6 +14959,536 @@
       ]
     }
   ],
+  "LineupsPlayers": [
+    {
+      "id": 1,
+      "idFoto": 268375,
+      "nome": "Emiliano Martínez",
+      "camisa": 23,
+      "nota": 7.2,
+      "idade2": 30
+    },
+    {
+      "id": 2,
+      "idFoto": 726345,
+      "nome": "Nahuel Molina",
+      "camisa": 26,
+      "nota": 6.8,
+      "idade2": 24
+    },
+    {
+      "id": 3,
+      "idFoto": 789066,
+      "nome": "Cristian Romero",
+      "camisa": 13,
+      "nota": 7.4,
+      "idade2": 24
+    },
+    {
+      "id": 4,
+      "idFoto": 174321,
+      "nome": "Nicolás Otamendi",
+      "camisa": 19,
+      "nota": 6.3,
+      "idade2": 34
+    },
+    {
+      "id": 5,
+      "idFoto": 195750,
+      "nome": "Nicolás Tagliafico",
+      "camisa": 3,
+      "nota": 7.7,
+      "idade2": 30
+    },
+    {
+      "id": 6,
+      "idFoto": 324578,
+      "nome": "Rodrigo De Paul",
+      "camisa": 7,
+      "nota": 6.7,
+      "idade2": 28
+    },
+    {
+      "id": 7,
+      "idFoto": 1137705,
+      "nome": "Enzo Fernández",
+      "camisa": 24,
+      "nota": 8.3,
+      "idade2": 21
+    },
+    {
+      "id": 8,
+      "idFoto": 831489,
+      "nome": "Alexis Mac Allister",
+      "camisa": 20,
+      "nota": 7.8,
+      "idade2": 23
+    },
+    {
+      "id": 9,
+      "idFoto": 30981,
+      "nome": "Lionel Messi",
+      "camisa": 10,
+      "nota": 9.0,
+      "idade2": 35
+    },
+    {
+      "id": 10,
+      "idFoto": 974753,
+      "nome": "Julián Álvarez",
+      "camisa": 9,
+      "nota": 6.2,
+      "idade2": 22
+    },
+    {
+      "id": 11,
+      "idFoto": 46509,
+      "nome": "Ángel Di Maria",
+      "camisa": 11,
+      "nota": 8.7,
+      "idade2": 34
+    },
+    {
+      "id": 12,
+      "idFoto": 26295,
+      "nome": "Hugo Lloris",
+      "camisa": 1,
+      "nota": 7.7,
+      "idade2": 35
+    },
+    {
+      "id": 13,
+      "idFoto": 705450,
+      "nome": "Jules Koundé",
+      "camisa": 5,
+      "nota": 7.1,
+      "idade2": 24
+    },
+    {
+      "id": 14,
+      "idFoto": 230982,
+      "nome": "Raphaël Varane",
+      "camisa": 4,
+      "nota": 6.4,
+      "idade2": 29
+    },
+    {
+      "id": 15,
+      "idFoto": 658554,
+      "nome": "Dayot Upamecano",
+      "camisa": 18,
+      "nota": 6.4,
+      "idade2": 24
+    },
+    {
+      "id": 16,
+      "idFoto": 724371,
+      "nome": "Theo Hernández",
+      "camisa": 22,
+      "nota": 7.1,
+      "idade2": 25
+    },
+    {
+      "id": 17,
+      "idFoto": 184138,
+      "nome": "Antoine Griezmann",
+      "camisa": 7,
+      "nota": 7.1,
+      "idade2": 31
+    },
+    {
+      "id": 18,
+      "idFoto": 914458,
+      "nome": "Aurélien Tchouaméni",
+      "camisa": 8,
+      "nota": 7.5,
+      "idade2": 22
+    },
+    {
+      "id": 19,
+      "idFoto": 352879,
+      "nome": "Adrien Rabiot",
+      "camisa": 14,
+      "nota": 7.5,
+      "idade2": 27
+    },
+    {
+      "id": 20,
+      "idFoto": 692984,
+      "nome": "Ousmane Dembélé",
+      "camisa": 11,
+      "nota": 5.5,
+      "idade2": 25
+    },
+    {
+      "id": 21,
+      "idFoto": 46469,
+      "nome": "Olivier Giroud",
+      "camisa": 9,
+      "nota": 6.5,
+      "idade2": 36
+    },
+    {
+      "id": 22,
+      "idFoto": 701154,
+      "nome": "Kylian Mbappé",
+      "camisa": 10,
+      "nota": 9.6,
+      "idade2": 23
+    },
+    {
+      "id": 23,
+      "idFoto": 26295,
+      "nome": "Hugo Lloris",
+      "camisa": 1,
+      "nota": 5.4,
+      "idade2": 31
+    },
+    {
+      "id": 24,
+      "idFoto": 611223,
+      "nome": "Benjamin Pavard",
+      "camisa": 2,
+      "nota": 7.1,
+      "idade2": 22
+    },
+    {
+      "id": 25,
+      "idFoto": 230982,
+      "nome": "Raphaël Varane",
+      "camisa": 4,
+      "nota": 6.8,
+      "idade2": 25
+    },
+    {
+      "id": 26,
+      "idFoto": 210117,
+      "nome": "Samuel Umtiti",
+      "camisa": 5,
+      "nota": 6.8,
+      "idade2": 24
+    },
+    {
+      "id": 27,
+      "idFoto": 504606,
+      "nome": "Lucas Hernández",
+      "camisa": 21,
+      "nota": 7.4,
+      "idade2": 22
+    },
+    {
+      "id": 28,
+      "idFoto": 319300,
+      "nome": "N'Golo Kanté",
+      "camisa": 13,
+      "nota": 6.3,
+      "idade2": 27
+    },
+    {
+      "id": 29,
+      "idFoto": 248453,
+      "nome": "Paul Pogba",
+      "camisa": 6,
+      "nota": 8.4,
+      "idade2": 25
+    },
+    {
+      "id": 30,
+      "idFoto": 701154,
+      "nome": "Kylian Mbappé",
+      "camisa": 10,
+      "nota": 7.5,
+      "idade2": 19
+    },
+    {
+      "id": 31,
+      "idFoto": 184138,
+      "nome": "Antoine Griezmann",
+      "camisa": 7,
+      "nota": 8.1,
+      "idade2": 27
+    },
+    {
+      "id": 32,
+      "idFoto": 26419,
+      "nome": "Blaise Matuidi",
+      "camisa": 14,
+      "nota": 6.6,
+      "idade2": 31
+    },
+    {
+      "id": 33,
+      "idFoto": 46469,
+      "nome": "Olivier Giroud",
+      "camisa": 9,
+      "nota": 6.5,
+      "idade2": 31
+    },
+    {
+      "id": 34,
+      "idFoto": 115184,
+      "nome": "Danijel Subasic",
+      "camisa": 23,
+      "nota": 5.5,
+      "idade2": 33
+    },
+    {
+      "id": 35,
+      "idFoto": 178120,
+      "nome": "Sime Vrsaljko",
+      "camisa": 2,
+      "nota": 6.0,
+      "idade2": 26
+    },
+    {
+      "id": 36,
+      "idFoto": 114268,
+      "nome": "Dejan Lovren",
+      "camisa": 6,
+      "nota": 6.4,
+      "idade2": 29
+    },
+    {
+      "id": 37,
+      "idFoto": 115180,
+      "nome": "Domagoj Vida",
+      "camisa": 21,
+      "nota": 7.1,
+      "idade2": 29
+    },
+    {
+      "id": 38,
+      "idFoto": 128852,
+      "nome": "Ivan Strinic",
+      "camisa": 3,
+      "nota": 5.7,
+      "idade2": 30
+    },
+    {
+      "id": 39,
+      "idFoto": 206508,
+      "nome": "Marcelo Brozovic",
+      "camisa": 11,
+      "nota": 7.0,
+      "idade2": 25
+    },
+    {
+      "id": 40,
+      "idFoto": 25773,
+      "nome": "Ivan Rakitic",
+      "camisa": 7,
+      "nota": 6.4,
+      "idade2": 30
+    },
+    {
+      "id": 41,
+      "idFoto": 265725,
+      "nome": "Ante Rebic",
+      "camisa": 18,
+      "nota": 6.4,
+      "idade2": 24
+    },
+    {
+      "id": 42,
+      "idFoto": 31097,
+      "nome": "Luka Modric",
+      "camisa": 10,
+      "nota": 7.2,
+      "idade2": 32
+    },
+    {
+      "id": 43,
+      "idFoto": 163670,
+      "nome": "Ivan Perisic",
+      "camisa": 4,
+      "nota": 7.3,
+      "idade2": 29
+    },
+    {
+      "id": 44,
+      "idFoto": 75447,
+      "nome": "Mario Mandzukic",
+      "camisa": 17,
+      "nota": 6.9,
+      "idade2": 32
+    },
+    {
+      "id": 45,
+      "idFoto": 27299,
+      "nome": "Manuel Neuer",
+      "camisa": 1,
+      "nota": 8.1,
+      "idade2": 28
+    },
+    {
+      "id": 46,
+      "idFoto": 30894,
+      "nome": "Philipp Lahm",
+      "camisa": 16,
+      "nota": 8.4,
+      "idade2": 30
+    },
+    {
+      "id": 47,
+      "idFoto": 36183,
+      "nome": "Jérome Boateng",
+      "camisa": 20,
+      "nota": 8.3,
+      "idade2": 25
+    },
+    {
+      "id": 48,
+      "idFoto": 36388,
+      "nome": "Mats Hummels",
+      "camisa": 5,
+      "nota": 8.3,
+      "idade2": 25
+    },
+    {
+      "id": 49,
+      "idFoto": 68253,
+      "nome": "Benedikt Höwedes",
+      "camisa": 4,
+      "nota": 7.3,
+      "idade2": 26
+    },
+    {
+      "id": 50,
+      "idFoto": 30872,
+      "nome": "Bastian Schweinsteiger",
+      "camisa": 7,
+      "nota": 8.3,
+      "idade2": 29
+    },
+    {
+      "id": 51,
+      "idFoto": 269788,
+      "nome": "Christoph Kramer",
+      "camisa": 23,
+      "nota": 6.2,
+      "idade2": 23
+    },
+    {
+      "id": 52,
+      "idFoto": 95078,
+      "nome": "Toni Kroos",
+      "camisa": 18,
+      "nota": 7.9,
+      "idade2": 24
+    },
+    {
+      "id": 53,
+      "idFoto": 116772,
+      "nome": "Thomas Müller",
+      "camisa": 13,
+      "nota": 7.9,
+      "idade2": 24
+    },
+    {
+      "id": 54,
+      "idFoto": 30638,
+      "nome": "Miroslav Klose",
+      "camisa": 11,
+      "nota": 6.9,
+      "idade2": 36
+    },
+    {
+      "id": 55,
+      "idFoto": 36378,
+      "nome": "Mesut Özil",
+      "camisa": 8,
+      "nota": 7.0,
+      "idade2": 25
+    },
+    {
+      "id": 56,
+      "idFoto": 109060,
+      "nome": "Sergio Romero",
+      "camisa": 1,
+      "nota": 6.7,
+      "idade2": 27
+    },
+    {
+      "id": 57,
+      "idFoto": 30509,
+      "nome": "Pablo Zabaleta",
+      "camisa": 4,
+      "nota": 7.7,
+      "idade2": 29
+    },
+    {
+      "id": 58,
+      "idFoto": 30459,
+      "nome": "Martin Demichelis",
+      "camisa": 15,
+      "nota": 7.5,
+      "idade2": 33
+    },
+    {
+      "id": 59,
+      "idFoto": 37581,
+      "nome": "Ezequiel Garay",
+      "camisa": 2,
+      "nota": 7.3,
+      "idade2": 27
+    },
+    {
+      "id": 60,
+      "idFoto": 161035,
+      "nome": "Marcos Rojo",
+      "camisa": 16,
+      "nota": 6.9,
+      "idade2": 24
+    },
+    {
+      "id": 61,
+      "idFoto": 18925,
+      "nome": "Ezequiel Lavezzi",
+      "camisa": 22,
+      "nota": 6.2,
+      "idade2": 29
+    },
+    {
+      "id": 62,
+      "idFoto": 38393,
+      "nome": "Lucas Biglia",
+      "camisa": 6,
+      "nota": 6.5,
+      "idade2": 28
+    },
+    {
+      "id": 63,
+      "idFoto": 38818,
+      "nome": "Javier Mascherano",
+      "camisa": 14,
+      "nota": 7.2,
+      "idade2": 30
+    },
+    {
+      "id": 64,
+      "idFoto": 40148,
+      "nome": "Enzo Pérez",
+      "camisa": 8,
+      "nota": 6.7,
+      "idade2": 28
+    },
+    {
+      "id": 65,
+      "idFoto": 30981,
+      "nome": "Lionel Messi",
+      "camisa": 10,
+      "nota": 6.7,
+      "idade2": 27
+    },
+    {
+      "id": 66,
+      "idFoto": 25759,
+      "nome": "Gonzalo Higuain",
+      "camisa": 9,
+      "nota": 5.8,
+      "idade2": 26
+    }
+  ],
   "BrazilPlayers": [
     {
       "id": 1,
