@@ -14970,11 +14970,11 @@
         },
         {
           "id": 19,
-          "pos": "MCE"
+          "pos": "VOLE"
         },
         {
           "id": 18,
-          "pos": "MCD"
+          "pos": "VOLD"
         },
         {
           "id": 17,
@@ -14998,31 +14998,261 @@
       "id": 2,
       "pais": "Argentina",
       "tipo": "Campeão",
-      "ano": 2022
+      "ano": 2022,
+      "players": [
+        {
+          "id": 1,
+          "pos": "GOL"
+        },
+        {
+          "id": 4,
+          "pos": "ZGE"
+        },
+        {
+          "id": 3,
+          "pos": "ZGD"
+        },
+        {
+          "id": 5,
+          "pos": "LE"
+        },
+        {
+          "id": 2,
+          "pos": "LD"
+        },
+        {
+          "id": 7,
+          "pos": "VOL"
+        },
+        {
+          "id": 6,
+          "pos": "MCD"
+        },
+        {
+          "id": 8,
+          "pos": "MCE"
+        },
+        {
+          "id": 11,
+          "pos": "PE"
+        },
+        {
+          "id": 9,
+          "pos": "PD"
+        },
+        {
+          "id": 10,
+          "pos": "ATA"
+        }
+      ]
     },
     {
       "id": 3,
       "pais": "França",
       "tipo": "Campeão",
-      "ano": 2018
+      "ano": 2018,
+      "players": [
+        {
+          "id": 23,
+          "pos": "GOL"
+        },
+        {
+          "id": 26,
+          "pos": "ZGE"
+        },
+        {
+          "id": 25,
+          "pos": "ZGD"
+        },
+        {
+          "id": 27,
+          "pos": "LE"
+        },
+        {
+          "id": 24,
+          "pos": "LD"
+        },
+        {
+          "id": 28,
+          "pos": "VOLE"
+        },
+        {
+          "id": 29,
+          "pos": "VOLD"
+        },
+        {
+          "id": 31,
+          "pos": "MEI"
+        },
+        {
+          "id": 32,
+          "pos": "PE"
+        },
+        {
+          "id": 30,
+          "pos": "PD"
+        },
+        {
+          "id": 33,
+          "pos": "ATA"
+        }
+      ]
     },
     {
       "id": 4,
       "pais": "Croácia",
       "tipo": "Finalista",
-      "ano": 2018
+      "ano": 2018,
+      "players": [
+        {
+          "id": 34,
+          "pos": "GOL"
+        },
+        {
+          "id": 37,
+          "pos": "ZGE"
+        },
+        {
+          "id": 36,
+          "pos": "ZGD"
+        },
+        {
+          "id": 38,
+          "pos": "LE"
+        },
+        {
+          "id": 35,
+          "pos": "LD"
+        },
+        {
+          "id": 39,
+          "pos": "MCE"
+        },
+        {
+          "id": 40,
+          "pos": "MCD"
+        },
+        {
+          "id": 42,
+          "pos": "MEI"
+        },
+        {
+          "id": 43,
+          "pos": "PE"
+        },
+        {
+          "id": 41,
+          "pos": "PD"
+        },
+        {
+          "id": 44,
+          "pos": "ATA"
+        }
+      ]
     },
     {
       "id": 5,
       "pais": "Alemanha",
       "tipo": "Campeão",
-      "ano": 2014
+      "ano": 2014,
+      "players": [
+        {
+          "id": 45,
+          "pos": "GOL"
+        },
+        {
+          "id": 48,
+          "pos": "ZGE"
+        },
+        {
+          "id": 47,
+          "pos": "ZGD"
+        },
+        {
+          "id": 49,
+          "pos": "LE"
+        },
+        {
+          "id": 46,
+          "pos": "LD"
+        },
+        {
+          "id": 50,
+          "pos": "VOL"
+        },
+        {
+          "id": 51,
+          "pos": "MCD"
+        },
+        {
+          "id": 52,
+          "pos": "MCE"
+        },
+        {
+          "id": 55,
+          "pos": "PE"
+        },
+        {
+          "id": 53,
+          "pos": "PD"
+        },
+        {
+          "id": 54,
+          "pos": "ATA"
+        }
+      ]
     },
     {
       "id": 6,
       "pais": "Argentina",
       "tipo": "Finalista",
-      "ano": 2014
+      "ano": 2014,
+         "players": [
+        {
+          "id": 56,
+          "pos": "GOL"
+        },
+        {
+          "id": 59,
+          "pos": "ZGE"
+        },
+        {
+          "id": 58,
+          "pos": "ZGD"
+        },
+        {
+          "id": 60,
+          "pos": "LE"
+        },
+        {
+          "id": 57,
+          "pos": "LD"
+        },
+        {
+          "id": 61,
+          "pos": "VOLE"
+        },
+        {
+          "id": 63,
+          "pos": "VOLD"
+        },
+        {
+          "id": 64,
+          "pos": "MD"
+        },
+        {
+          "id": 61,
+          "pos": "ME"
+        },
+        {
+          "id": 66,
+          "pos": "ATAE"
+        },
+        {
+          "id": 65,
+          "pos": "ATAD"
+        }
+      ]
     }
   ],
   "LineupsPlayers": [
