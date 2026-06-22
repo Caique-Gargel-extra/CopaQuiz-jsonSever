@@ -15926,7 +15926,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 193,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":319784
     },
     {
       "id": 2,
@@ -15936,7 +15937,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 184,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":0
     },
     {
       "id": 3,
@@ -15946,7 +15948,8 @@
       "copas": 4,
       "titulos": 0,
       "altura": 183,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":80562
     },
     {
       "id": 4,
@@ -15956,7 +15959,8 @@
       "copas": 3,
       "titulos": 0,
       "altura": 183,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":267365
     },
     {
       "id": 5,
@@ -15966,7 +15970,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 180,
-      "pernaboa": "esquerda"
+      "pernaboa": "esquerda",
+      "idfoto":157865
     },
     {
       "id": 6,
@@ -15976,7 +15981,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 185,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":208494
     },
     {
       "id": 7,
@@ -15986,7 +15992,8 @@
       "copas": 1,
       "titulos": 0,
       "altura": 180,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":766435
     },
     {
       "id": 8,
@@ -15996,7 +16003,8 @@
       "copas": 3,
       "titulos": 0,
       "altura": 175,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":19533
     },
     {
       "id": 9,
@@ -16006,7 +16014,8 @@
       "copas": 1,
       "titulos": 0,
       "altura": 176,
-      "pernaboa": "esquerda"
+      "pernaboa": "esquerda",
+      "idfoto":696679
     },
     {
       "id": 10,
@@ -16016,7 +16025,8 @@
       "copas": 1,
       "titulos": 0,
       "altura": 176,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":846033
     },
     {
       "id": 11,
@@ -16026,7 +16036,8 @@
       "copas": 1,
       "titulos": 0,
       "altura": 184,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":654908
     },
     {
       "id": 12,
@@ -16036,7 +16047,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 174,
-      "pernaboa": "esquerda"
+      "pernaboa": "esquerda",
+      "idfoto":28467
     },
     {
       "id": 13,
@@ -16046,7 +16058,8 @@
       "copas": 1,
       "titulos": 0,
       "altura": 186,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":19327
     },
     {
       "id": 14,
@@ -16056,7 +16069,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 183,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":114971
     },
     {
       "id": 15,
@@ -16066,7 +16080,8 @@
       "copas": 1,
       "titulos": 0,
       "altura": 172,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":184536
     },
     {
       "id": 16,
@@ -16076,7 +16091,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 175,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":94086
     },
     {
       "id": 17,
@@ -16086,7 +16102,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 175,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":576165
     },
     {
       "id": 18,
@@ -16096,7 +16113,8 @@
       "copas": 2,
       "titulos": 0,
       "altura": 189,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":52133
     },
     {
       "id": 19,
@@ -16106,347 +16124,8 @@
       "copas": 3,
       "titulos": 0,
       "altura": 172,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 20,
-      "nome": "Luiz Gustavo",
-      "funcao": "meiocampista",
-      "gols": 0,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 187,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 21,
-      "nome": "Fernandinho",
-      "funcao": "meiocampista",
-      "gols": 1,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 179,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 22,
-      "nome": "Oscar",
-      "funcao": "meiocampista",
-      "gols": 2,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 179,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 23,
-      "nome": "Hulk",
-      "funcao": "atacante",
-      "gols": 1,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 180,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 24,
-      "nome": "Fred",
-      "funcao": "atacante",
-      "gols": 1,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 185,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 25,
-      "nome": "Júlio César",
-      "funcao": "goleiro",
-      "gols": 0,
-      "copas": 3,
-      "titulos": 0,
-      "altura": 186,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 26,
-      "nome": "Maicon",
-      "funcao": "defensor",
-      "gols": 1,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 184,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 27,
-      "nome": "Michel Bastos",
-      "funcao": "defensor",
-      "gols": 0,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 179,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 28,
-      "nome": "Lúcio",
-      "funcao": "defensor",
-      "gols": 1,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 188,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 29,
-      "nome": "Juan",
-      "funcao": "defensor",
-      "gols": 0,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 183,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 30,
-      "nome": "Gilberto Silva",
-      "funcao": "meiocampista",
-      "gols": 0,
-      "copas": 2,
-      "titulos": 1,
-      "altura": 185,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 31,
-      "nome": "Felipe Melo",
-      "funcao": "meiocampista",
-      "gols": 0,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 183,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 32,
-      "nome": "Kaká",
-      "funcao": "meiocampista",
-      "gols": 2,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 186,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 33,
-      "nome": "Robinho",
-      "funcao": "atacante",
-      "gols": 3,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 172,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 34,
-      "nome": "Luís Fabiano",
-      "funcao": "atacante",
-      "gols": 3,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 183,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 35,
-      "nome": "Dida",
-      "funcao": "goleiro",
-      "gols": 0,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 195,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 36,
-      "nome": "Cafu",
-      "funcao": "defensor",
-      "gols": 0,
-      "copas": 4,
-      "titulos": 2,
-      "altura": 176,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 37,
-      "nome": "Roberto Carlos",
-      "funcao": "defensor",
-      "gols": 0,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 168,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 38,
-      "nome": "Juninho Pernambucano",
-      "funcao": "meiocampista",
-      "gols": 1,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 179,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 39,
-      "nome": "Zé Roberto",
-      "funcao": "meiocampista",
-      "gols": 0,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 172,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 40,
-      "nome": "Ronaldinho Gaúcho",
-      "funcao": "atacante",
-      "gols": 2,
-      "copas": 2,
-      "titulos": 1,
-      "altura": 182,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 41,
-      "nome": "Ronaldo Nazário",
-      "funcao": "atacante",
-      "gols": 15,
-      "copas": 4,
-      "titulos": 2,
-      "altura": 183,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 42,
-      "nome": "Adriano Imperador",
-      "funcao": "atacante",
-      "gols": 2,
-      "copas": 1,
-      "titulos": 0,
-      "altura": 189,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 43,
-      "nome": "Marcos",
-      "funcao": "goleiro",
-      "gols": 0,
-      "copas": 2,
-      "titulos": 1,
-      "altura": 193,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 44,
-      "nome": "Edmílson",
-      "funcao": "defensor",
-      "gols": 1,
-      "copas": 2,
-      "titulos": 1,
-      "altura": 186,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 45,
-      "nome": "Roque Júnior",
-      "funcao": "defensor",
-      "gols": 0,
-      "copas": 2,
-      "titulos": 1,
-      "altura": 187,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 46,
-      "nome": "Kléberson",
-      "funcao": "meiocampista",
-      "gols": 0,
-      "copas": 1,
-      "titulos": 1,
-      "altura": 175,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 47,
-      "nome": "Rivaldo",
-      "funcao": "atacante",
-      "gols": 8,
-      "copas": 2,
-      "titulos": 1,
-      "altura": 186,
-      "pernaboa": "esquerda"
-    },
-    {
-      "id": 48,
-      "nome": "Taffarel",
-      "funcao": "goleiro",
-      "gols": 0,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 180,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 49,
-      "nome": "Dunga",
-      "funcao": "meiocampista",
-      "gols": 0,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 174,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 50,
-      "nome": "Bebeto",
-      "funcao": "atacante",
-      "gols": 6,
-      "copas": 3,
-      "titulos": 1,
-      "altura": 176,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 51,
-      "nome": "Sócrates",
-      "funcao": "meiocampista",
-      "gols": 2,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 192,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 52,
-      "nome": "Zico",
-      "funcao": "meiocampista",
-      "gols": 5,
-      "copas": 3,
-      "titulos": 0,
-      "altura": 172,
-      "pernaboa": "direita"
-    },
-    {
-      "id": 53,
-      "nome": "Pelé",
-      "funcao": "atacante",
-      "gols": 12,
-      "copas": 4,
-      "titulos": 3,
-      "altura": 173,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":33988
     },
     {
       "id": 54,
@@ -16456,17 +16135,371 @@
       "copas": 3,
       "titulos": 2,
       "altura": 169,
-      "pernaboa": "direita"
+      "pernaboa": "direita",
+      "idfoto":0
     },
     {
-      "id": 55,
-      "nome": "Júnior Baiano",
+      "id": 21,
+      "nome": "Fernandinho",
+      "funcao": "meiocampista",
+      "gols": 1,
+      "copas": 2,
+      "titulos": 0,
+      "altura": 179,
+      "pernaboa": "direita",
+      "idfoto":40196
+    },
+    {
+      "id": 22,
+      "nome": "Oscar",
+      "funcao": "meiocampista",
+      "gols": 2,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 179,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 23,
+      "nome": "Hulk",
+      "funcao": "atacante",
+      "gols": 1,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 180,
+      "pernaboa": "esquerda",
+      "idfoto":20276
+    },
+    {
+      "id": 24,
+      "nome": "Fred",
+      "funcao": "atacante",
+      "gols": 1,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 185,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 25,
+      "nome": "Júlio César",
+      "funcao": "goleiro",
+      "gols": 0,
+      "copas": 3,
+      "titulos": 0,
+      "altura": 186,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 26,
+      "nome": "Maicon",
+      "funcao": "defensor",
+      "gols": 1,
+      "copas": 2,
+      "titulos": 0,
+      "altura": 184,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 27,
+      "nome": "Michel Bastos",
       "funcao": "defensor",
       "gols": 0,
       "copas": 1,
       "titulos": 0,
-      "altura": 194,
-      "pernaboa": "direita"
+      "altura": 179,
+      "pernaboa": "esquerda",
+      "idfoto":0
+    },
+    {
+      "id": 28,
+      "nome": "Lúcio",
+      "funcao": "defensor",
+      "gols": 1,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 188,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 29,
+      "nome": "Juan",
+      "funcao": "defensor",
+      "gols": 0,
+      "copas": 2,
+      "titulos": 0,
+      "altura": 183,
+      "pernaboa": "esquerda",
+      "idfoto":0
+    },
+    {
+      "id": 30,
+      "nome": "Gilberto Silva",
+      "funcao": "meiocampista",
+      "gols": 0,
+      "copas": 2,
+      "titulos": 1,
+      "altura": 185,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 31,
+      "nome": "Felipe Melo",
+      "funcao": "meiocampista",
+      "gols": 0,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 183,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 32,
+      "nome": "Kaká",
+      "funcao": "meiocampista",
+      "gols": 2,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 186,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 33,
+      "nome": "Robinho",
+      "funcao": "atacante",
+      "gols": 3,
+      "copas": 2,
+      "titulos": 0,
+      "altura": 172,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 34,
+      "nome": "Luís Fabiano",
+      "funcao": "atacante",
+      "gols": 3,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 183,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 35,
+      "nome": "Dida",
+      "funcao": "goleiro",
+      "gols": 0,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 195,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 36,
+      "nome": "Cafu",
+      "funcao": "defensor",
+      "gols": 0,
+      "copas": 4,
+      "titulos": 2,
+      "altura": 176,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 37,
+      "nome": "Roberto Carlos",
+      "funcao": "defensor",
+      "gols": 0,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 168,
+      "pernaboa": "esquerda",
+      "idfoto":0
+    },
+    {
+      "id": 38,
+      "nome": "Juninho Pernambucano",
+      "funcao": "meiocampista",
+      "gols": 1,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 179,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 39,
+      "nome": "Zé Roberto",
+      "funcao": "meiocampista",
+      "gols": 0,
+      "copas": 2,
+      "titulos": 0,
+      "altura": 172,
+      "pernaboa": "esquerda",
+      "idfoto":0
+    },
+    {
+      "id": 40,
+      "nome": "Ronaldinho Gaúcho",
+      "funcao": "atacante",
+      "gols": 2,
+      "copas": 2,
+      "titulos": 1,
+      "altura": 182,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 41,
+      "nome": "Ronaldo Nazário",
+      "funcao": "atacante",
+      "gols": 15,
+      "copas": 4,
+      "titulos": 2,
+      "altura": 183,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 42,
+      "nome": "Adriano Imperador",
+      "funcao": "atacante",
+      "gols": 2,
+      "copas": 1,
+      "titulos": 0,
+      "altura": 189,
+      "pernaboa": "esquerda",
+      "idfoto":0
+    },
+    {
+      "id": 43,
+      "nome": "Marcos",
+      "funcao": "goleiro",
+      "gols": 0,
+      "copas": 2,
+      "titulos": 1,
+      "altura": 193,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 44,
+      "nome": "Edmílson",
+      "funcao": "defensor",
+      "gols": 1,
+      "copas": 2,
+      "titulos": 1,
+      "altura": 186,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 45,
+      "nome": "Roque Júnior",
+      "funcao": "defensor",
+      "gols": 0,
+      "copas": 2,
+      "titulos": 1,
+      "altura": 187,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 46,
+      "nome": "Kléberson",
+      "funcao": "meiocampista",
+      "gols": 0,
+      "copas": 1,
+      "titulos": 1,
+      "altura": 175,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 47,
+      "nome": "Rivaldo",
+      "funcao": "atacante",
+      "gols": 8,
+      "copas": 2,
+      "titulos": 1,
+      "altura": 186,
+      "pernaboa": "esquerda",
+      "idfoto":0
+    },
+    {
+      "id": 48,
+      "nome": "Taffarel",
+      "funcao": "goleiro",
+      "gols": 0,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 180,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 49,
+      "nome": "Dunga",
+      "funcao": "meiocampista",
+      "gols": 0,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 174,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 50,
+      "nome": "Bebeto",
+      "funcao": "atacante",
+      "gols": 6,
+      "copas": 3,
+      "titulos": 1,
+      "altura": 176,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 51,
+      "nome": "Sócrates",
+      "funcao": "meiocampista",
+      "gols": 2,
+      "copas": 2,
+      "titulos": 0,
+      "altura": 192,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 52,
+      "nome": "Zico",
+      "funcao": "meiocampista",
+      "gols": 5,
+      "copas": 3,
+      "titulos": 0,
+      "altura": 172,
+      "pernaboa": "direita",
+      "idfoto":0
+    },
+    {
+      "id": 53,
+      "nome": "Pelé",
+      "funcao": "atacante",
+      "gols": 12,
+      "copas": 4,
+      "titulos": 3,
+      "altura": 173,
+      "pernaboa": "direita",
+      "idfoto":0
     }
   ]
 }
