@@ -15253,6 +15253,162 @@
           "pos": "ATAD"
         }
       ]
+    },
+    {
+      "id": 7,
+      "pais": "Espanha",
+      "tipo": "Campeão",
+      "ano": 2010,
+      "players": [
+        {
+          "id": 67,
+          "pos": "GOL"
+        },
+        {
+          "id": 70,
+          "pos": "ZGE"
+        },
+        {
+          "id": 69,
+          "pos": "ZGD"
+        },
+        {
+          "id": 71,
+          "pos": "LE"
+        },
+        {
+          "id": 68,
+          "pos": "LD"
+        },
+        {
+          "id": 73,
+          "pos": "VOLE"
+        },
+        {
+          "id": 72,
+          "pos": "VOLD"
+        },
+        {
+          "id": 74,
+          "pos": "MEI"
+        },
+        {
+          "id": 75,
+          "pos": "ME"
+        },
+        {
+          "id": 76,
+          "pos": "PD"
+        },
+        {
+          "id": 77,
+          "pos": "ATA"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "pais": "Holanda",
+      "tipo": "Finalista",
+      "ano": 2010,
+      "players": [
+        {
+          "id": 78,
+          "pos": "GOL"
+        },
+        {
+          "id": 79,
+          "pos": "LD"
+        },
+        {
+          "id": 80,
+          "pos": "ZGD"
+        },
+        {
+          "id": 81,
+          "pos": "ZGE"
+        },
+        {
+          "id": 82,
+          "pos": "LE"
+        },
+        {
+          "id": 83,
+          "pos": "VOLD"
+        },
+        {
+          "id": 84,
+          "pos": "VOLE"
+        },
+        {
+          "id": 85,
+          "pos": "MEI"
+        },
+        {
+          "id": 86,
+          "pos": "PD"
+        },
+        {
+          "id": 87,
+          "pos": "PE"
+        },
+        {
+          "id": 88,
+          "pos": "ATA"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "pais": "Itália",
+      "tipo": "Campeão",
+      "ano": 2006,
+      "players": [
+        {
+          "id": 89,
+          "pos": "GOL"
+        },
+        {
+          "id": 90,
+          "pos": "LD"
+        },
+        {
+          "id": 91,
+          "pos": "ZGD"
+        },
+        {
+          "id": 92,
+          "pos": "ZGE"
+        },
+        {
+          "id": 93,
+          "pos": "LE"
+        },
+        {
+          "id": 94,
+          "pos": "VOLD"
+        },
+        {
+          "id": 95,
+          "pos": "VOLE"
+        },
+        {
+          "id": 96,
+          "pos": "MD"
+        },
+        {
+          "id": 97,
+          "pos": "ME"
+        },
+        {
+          "id": 98,
+          "pos": "MEI"
+        },
+        {
+          "id": 99,
+          "pos": "ATA"
+        }
+      ]
     }
   ],
   "LineupsPlayers": [
