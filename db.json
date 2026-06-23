@@ -15298,7 +15298,7 @@
         },
         {
           "id": 76,
-          "pos": "PD"
+          "pos": "MD"
         },
         {
           "id": 77,
@@ -15407,6 +15407,271 @@
         {
           "id": 99,
           "pos": "ATA"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "pais": "França",
+      "tipo": "Finalista",
+      "ano": 2006,
+      "players": [
+        {
+          "id": 100,
+          "pos": "GOL"
+        },
+        {
+          "id": 101,
+          "pos": "LD"
+        },
+        {
+          "id": 102,
+          "pos": "ZGD"
+        },
+        {
+          "id": 103,
+          "pos": "ZGE"
+        },
+        {
+          "id": 104,
+          "pos": "LE"
+        },
+        {
+          "id": 105,
+          "pos": "VOLD"
+        },
+        {
+          "id": 106,
+          "pos": "VOLE"
+        },
+        {
+          "id": 107,
+          "pos": "PD"
+        },
+        {
+          "id": 108,
+          "pos": "PE"
+        },
+        {
+          "id": 109,
+          "pos": "MEI"
+        },
+        {
+          "id": 110,
+          "pos": "ATA"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "pais": "Brasil",
+      "tipo": "Campeão",
+      "ano": 2002,
+      "players": [
+        {
+          "id": 111,
+          "pos": "GOL"
+        },
+        {
+          "id": 115,
+          "pos": "LD"
+        },
+        {
+          "id": 112,
+          "pos": "ZGD"
+        },
+        {
+          "id": 113,
+          "pos": "ZGC"
+        },
+        {
+          "id": 114,
+          "pos": "ZGE"
+        },
+        {
+          "id": 116,
+          "pos": "LE"
+        },
+        {
+          "id": 117,
+          "pos": "VOLD"
+        },
+        {
+          "id": 118,
+          "pos": "VOLE"
+        },
+        {
+          "id": 119,
+          "pos": "MEI"
+        },
+
+        {
+          "id": 120,
+          "pos": "ATAD"
+        },
+        {
+          "id": 121,
+          "pos": "ATAE"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "pais": "Alemanha",
+      "tipo": "Finalista",
+      "ano": 2002,
+      "players": [
+        {
+          "id": 122,
+          "pos": "GOL"
+        },
+        {
+          "id": 126,
+          "pos": "LD"
+        },
+        {
+          "id": 123,
+          "pos": "ZGD"
+        },
+        {
+          "id": 124,
+          "pos": "ZGC"
+        },
+        {
+          "id": 125,
+          "pos": "ZGE"
+        },
+        {
+          "id": 127,
+          "pos": "LE"
+        },
+        {
+          "id": 128,
+          "pos": "VOLD"
+        },
+        {
+          "id": 129,
+          "pos": "VOLE"
+        },
+        {
+          "id": 130,
+          "pos": "MEI"
+        },
+
+        {
+          "id": 131,
+          "pos": "ATAD"
+        },
+        {
+          "id": 132,
+          "pos": "ATAE"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "pais": "França",
+      "tipo": "Campeão",
+      "ano": 1998,
+      "players": [
+        {
+          "id": 133,
+          "pos": "GOL"
+        },
+        {
+          "id": 134,
+          "pos": "LD"
+        },
+        {
+          "id": 135,
+          "pos": "ZGD"
+        },
+  
+        {
+          "id": 136,
+          "pos": "ZGE"
+        },
+        {
+          "id": 137,
+          "pos": "LE"
+        },
+        {
+          "id": 138,
+          "pos": "VOL"
+        },
+        {
+          "id": 139,
+          "pos": "MCD"
+        },
+        {
+          "id": 140,
+          "pos": "MCE"
+        },
+
+        {
+          "id": 141,
+          "pos": "MEI"
+        },
+        {
+          "id": 142,
+          "pos": "ATAD"
+        },
+        {
+          "id": 143,
+          "pos": "ATAE"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "pais": "Brasil",
+      "tipo": "Finalista",
+      "ano": 1998,
+      "players": [
+        {
+          "id": 144,
+          "pos": "GOL"
+        },
+        {
+          "id": 145,
+          "pos": "LD"
+        },
+        {
+          "id": 146,
+          "pos": "ZGD"
+        },
+  
+        {
+          "id": 147,
+          "pos": "ZGE"
+        },
+        {
+          "id": 148,
+          "pos": "LE"
+        },
+        {
+          "id": 149,
+          "pos": "VOLD"
+        },
+        {
+          "id": 150,
+          "pos": "VOLE"
+        },
+        {
+          "id": 151,
+          "pos": "MD"
+        },
+        {
+          "id": 152,
+          "pos": "ME"
+        },
+        {
+          "id": 153,
+          "pos": "ATAD"
+        },
+        {
+          "id": 154,
+          "pos": "ATAE"
         }
       ]
     }
