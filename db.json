@@ -15938,7 +15938,7 @@
       "titulos": 0,
       "altura": 184,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto":208077
     },
     {
       "id": 3,
@@ -16128,7 +16128,7 @@
       "idfoto":33988
     },
     {
-      "id": 54,
+      "id": 20,
       "nome": "Garrincha",
       "funcao": "atacante",
       "gols": 5,
@@ -16228,13 +16228,13 @@
     },
     {
       "id": 29,
-      "nome": "Juan",
-      "funcao": "defensor",
-      "gols": 0,
-      "copas": 2,
-      "titulos": 0,
-      "altura": 183,
-      "pernaboa": "esquerda",
+      "nome": "Pelé",
+      "funcao": "atacante",
+      "gols": 12,
+      "copas": 4,
+      "titulos": 3,
+      "altura": 173,
+      "pernaboa": "direita",
       "idfoto":0
     },
     {
@@ -16251,7 +16251,7 @@
     {
       "id": 31,
       "nome": "Felipe Melo",
-      "funcao": "meiocampista",
+      "funcao": "defensor",
       "gols": 0,
       "copas": 1,
       "titulos": 0,
@@ -16487,17 +16487,6 @@
       "copas": 3,
       "titulos": 0,
       "altura": 172,
-      "pernaboa": "direita",
-      "idfoto":0
-    },
-    {
-      "id": 53,
-      "nome": "Pelé",
-      "funcao": "atacante",
-      "gols": 12,
-      "copas": 4,
-      "titulos": 3,
-      "altura": 173,
       "pernaboa": "direita",
       "idfoto":0
     }
