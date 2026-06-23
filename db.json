@@ -15927,7 +15927,8 @@
       "titulos": 0,
       "altura": 193,
       "pernaboa": "direita",
-      "idfoto":319784
+      "idfoto": 319784,
+      "camisa": 1
     },
     {
       "id": 2,
@@ -15938,7 +15939,8 @@
       "titulos": 0,
       "altura": 184,
       "pernaboa": "direita",
-      "idfoto":208077
+      "idfoto": 208077,
+      "camisa": 2
     },
     {
       "id": 3,
@@ -15949,7 +15951,8 @@
       "titulos": 0,
       "altura": 183,
       "pernaboa": "direita",
-      "idfoto":80562
+      "idfoto": 80562,
+      "camisa": 3
     },
     {
       "id": 4,
@@ -15960,7 +15963,8 @@
       "titulos": 0,
       "altura": 183,
       "pernaboa": "direita",
-      "idfoto":267365
+      "idfoto": 267365,
+      "camisa": 4
     },
     {
       "id": 5,
@@ -15971,7 +15975,8 @@
       "titulos": 0,
       "altura": 180,
       "pernaboa": "esquerda",
-      "idfoto":157865
+      "idfoto": 157865,
+      "camisa": 6
     },
     {
       "id": 6,
@@ -15982,7 +15987,8 @@
       "titulos": 0,
       "altura": 185,
       "pernaboa": "direita",
-      "idfoto":208494
+      "idfoto": 208494,
+      "camisa": 5
     },
     {
       "id": 7,
@@ -15993,7 +15999,8 @@
       "titulos": 0,
       "altura": 180,
       "pernaboa": "direita",
-      "idfoto":766435
+      "idfoto": 766435,
+      "camisa": 7
     },
     {
       "id": 8,
@@ -16004,7 +16011,8 @@
       "titulos": 0,
       "altura": 175,
       "pernaboa": "direita",
-      "idfoto":19533
+      "idfoto": 19533,
+      "camisa": 10
     },
     {
       "id": 9,
@@ -16015,7 +16023,8 @@
       "titulos": 0,
       "altura": 176,
       "pernaboa": "esquerda",
-      "idfoto":696679
+      "idfoto": 696679,
+      "camisa": 11
     },
     {
       "id": 10,
@@ -16026,7 +16035,8 @@
       "titulos": 0,
       "altura": 176,
       "pernaboa": "direita",
-      "idfoto":846033
+      "idfoto": 846033,
+      "camisa": 20
     },
     {
       "id": 11,
@@ -16037,7 +16047,8 @@
       "titulos": 0,
       "altura": 184,
       "pernaboa": "direita",
-      "idfoto":654908
+      "idfoto": 654908,
+      "camisa": 9
     },
     {
       "id": 12,
@@ -16048,7 +16059,8 @@
       "titulos": 0,
       "altura": 174,
       "pernaboa": "esquerda",
-      "idfoto":28467
+      "idfoto": 28467,
+      "camisa": 12
     },
     {
       "id": 13,
@@ -16059,7 +16071,8 @@
       "titulos": 0,
       "altura": 186,
       "pernaboa": "direita",
-      "idfoto":19327
+      "idfoto": 19327,
+      "camisa": 3
     },
     {
       "id": 14,
@@ -16070,7 +16083,8 @@
       "titulos": 0,
       "altura": 183,
       "pernaboa": "direita",
-      "idfoto":114971
+      "idfoto": 114971,
+      "camisa": 15
     },
     {
       "id": 15,
@@ -16081,7 +16095,8 @@
       "titulos": 0,
       "altura": 172,
       "pernaboa": "direita",
-      "idfoto":184536
+      "idfoto": 184536,
+      "camisa": 11
     },
     {
       "id": 16,
@@ -16092,7 +16107,8 @@
       "titulos": 0,
       "altura": 175,
       "pernaboa": "direita",
-      "idfoto":94086
+      "idfoto": 94086,
+      "camisa": 19
     },
     {
       "id": 17,
@@ -16103,7 +16119,8 @@
       "titulos": 0,
       "altura": 175,
       "pernaboa": "direita",
-      "idfoto":576165
+      "idfoto": 576165,
+      "camisa": 9
     },
     {
       "id": 18,
@@ -16114,7 +16131,8 @@
       "titulos": 0,
       "altura": 189,
       "pernaboa": "direita",
-      "idfoto":52133
+      "idfoto": 52133,
+      "camisa": 4
     },
     {
       "id": 19,
@@ -16125,7 +16143,8 @@
       "titulos": 0,
       "altura": 172,
       "pernaboa": "direita",
-      "idfoto":33988
+      "idfoto": 33988,
+      "camisa": 2
     },
     {
       "id": 20,
@@ -16136,7 +16155,8 @@
       "titulos": 2,
       "altura": 169,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 11
     },
     {
       "id": 21,
@@ -16147,7 +16167,8 @@
       "titulos": 0,
       "altura": 179,
       "pernaboa": "direita",
-      "idfoto":40196
+      "idfoto": 40196,
+      "camisa": 17
     },
     {
       "id": 22,
@@ -16158,7 +16179,8 @@
       "titulos": 0,
       "altura": 179,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 11
     },
     {
       "id": 23,
@@ -16169,7 +16191,8 @@
       "titulos": 0,
       "altura": 180,
       "pernaboa": "esquerda",
-      "idfoto":20276
+      "idfoto": 20276,
+      "camisa": 7
     },
     {
       "id": 24,
@@ -16180,7 +16203,8 @@
       "titulos": 0,
       "altura": 185,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 9
     },
     {
       "id": 25,
@@ -16191,7 +16215,8 @@
       "titulos": 0,
       "altura": 186,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 1
     },
     {
       "id": 26,
@@ -16202,7 +16227,8 @@
       "titulos": 0,
       "altura": 184,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 2
     },
     {
       "id": 27,
@@ -16213,7 +16239,8 @@
       "titulos": 0,
       "altura": 179,
       "pernaboa": "esquerda",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 6
     },
     {
       "id": 28,
@@ -16224,7 +16251,8 @@
       "titulos": 1,
       "altura": 188,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 3
     },
     {
       "id": 29,
@@ -16235,7 +16263,8 @@
       "titulos": 3,
       "altura": 173,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 10
     },
     {
       "id": 30,
@@ -16246,7 +16275,8 @@
       "titulos": 1,
       "altura": 185,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 8
     },
     {
       "id": 31,
@@ -16257,7 +16287,8 @@
       "titulos": 0,
       "altura": 183,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 5
     },
     {
       "id": 32,
@@ -16268,7 +16299,8 @@
       "titulos": 1,
       "altura": 186,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 10
     },
     {
       "id": 33,
@@ -16279,7 +16311,8 @@
       "titulos": 0,
       "altura": 172,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 11
     },
     {
       "id": 34,
@@ -16290,7 +16323,8 @@
       "titulos": 0,
       "altura": 183,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 9
     },
     {
       "id": 35,
@@ -16301,7 +16335,8 @@
       "titulos": 1,
       "altura": 195,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 1
     },
     {
       "id": 36,
@@ -16312,7 +16347,8 @@
       "titulos": 2,
       "altura": 176,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 2
     },
     {
       "id": 37,
@@ -16323,7 +16359,8 @@
       "titulos": 1,
       "altura": 168,
       "pernaboa": "esquerda",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 6
     },
     {
       "id": 38,
@@ -16334,7 +16371,8 @@
       "titulos": 0,
       "altura": 179,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 19
     },
     {
       "id": 39,
@@ -16345,7 +16383,8 @@
       "titulos": 0,
       "altura": 172,
       "pernaboa": "esquerda",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 11
     },
     {
       "id": 40,
@@ -16356,7 +16395,8 @@
       "titulos": 1,
       "altura": 182,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 10
     },
     {
       "id": 41,
@@ -16367,7 +16407,8 @@
       "titulos": 2,
       "altura": 183,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 9
     },
     {
       "id": 42,
@@ -16378,7 +16419,8 @@
       "titulos": 0,
       "altura": 189,
       "pernaboa": "esquerda",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 7
     },
     {
       "id": 43,
@@ -16389,7 +16431,8 @@
       "titulos": 1,
       "altura": 193,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 1
     },
     {
       "id": 44,
@@ -16400,7 +16443,8 @@
       "titulos": 1,
       "altura": 186,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 5
     },
     {
       "id": 45,
@@ -16411,7 +16455,8 @@
       "titulos": 1,
       "altura": 187,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 3
     },
     {
       "id": 46,
@@ -16422,7 +16467,8 @@
       "titulos": 1,
       "altura": 175,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 15
     },
     {
       "id": 47,
@@ -16433,7 +16479,8 @@
       "titulos": 1,
       "altura": 186,
       "pernaboa": "esquerda",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 10
     },
     {
       "id": 48,
@@ -16444,7 +16491,8 @@
       "titulos": 1,
       "altura": 180,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 1
     },
     {
       "id": 49,
@@ -16455,7 +16503,8 @@
       "titulos": 1,
       "altura": 174,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 8
     },
     {
       "id": 50,
@@ -16466,7 +16515,8 @@
       "titulos": 1,
       "altura": 176,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 20
     },
     {
       "id": 51,
@@ -16477,7 +16527,8 @@
       "titulos": 0,
       "altura": 192,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 8
     },
     {
       "id": 52,
@@ -16488,7 +16539,8 @@
       "titulos": 0,
       "altura": 172,
       "pernaboa": "direita",
-      "idfoto":0
+      "idfoto": 0,
+      "camisa": 10
     }
   ]
 }
