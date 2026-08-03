@@ -10,7 +10,8 @@ const allowedOrigins = [
   "http://localhost:3001",
   "https://cbloldle.vercel.app",
   "https://cbloldle-backend-sdma.vercel.app",
-  "https://quizcopa.vercel.app"
+  "https://quizcopa.vercel.app",
+  "https://www.quizcopa.com.br/"
 ];
 
 // Middleware para configurar CORS (antes do router)
